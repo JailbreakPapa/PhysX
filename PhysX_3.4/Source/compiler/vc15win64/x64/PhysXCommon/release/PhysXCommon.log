@@ -1,0 +1,473 @@
+﻿  Vcpkg is unable to link because we cannot decide between Release and Debug libraries. Please define the property VcpkgConfiguration to be 'Release' or 'Debug' (currently 'release').
+  CmWindowsDelayLoadHook.cpp
+  CmWindowsModuleUpdateLoader.cpp
+  CmBoxPruning.cpp
+  CmCollection.cpp
+  CmMathUtils.cpp
+  CmPtrTable.cpp
+  CmRadixSort.cpp
+  CmRadixSortBuffered.cpp
+  CmRenderOutput.cpp
+  CmVisualization.cpp
+  GuContactBoxBox.cpp
+  GuContactCapsuleBox.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmVisualization.cpp(112,31): warning C5219: implicit conversion from 'physx::PxU32' to 'float', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmVisualization.cpp(144,38): warning C5219: implicit conversion from 'physx::PxU32' to 'physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmVisualization.cpp(144,55): warning C5219: implicit conversion from 'physx::PxU32' to 'physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmVisualization.cpp(149,39): warning C5219: implicit conversion from 'physx::PxU32' to 'physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmVisualization.cpp(149,56): warning C5219: implicit conversion from 'physx::PxU32' to 'physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmVisualization.cpp(155,52): warning C5219: implicit conversion from 'physx::PxU32' to 'physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmVisualization.cpp(155,69): warning C5219: implicit conversion from 'physx::PxU32' to 'physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmVisualization.cpp(156,51): warning C5219: implicit conversion from 'physx::PxU32' to 'physx::PxReal', possible loss of data
+  GuContactCapsuleCapsule.cpp
+  GuContactCapsuleConvex.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmVisualization.cpp(156,68): warning C5219: implicit conversion from 'physx::PxU32' to 'physx::PxReal', possible loss of data
+  GuContactCapsuleMesh.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\Common\src\CmRenderOutput.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRenderOutput.cpp(229,36): warning C5219: implicit conversion from 'const physx::PxU32' to 'float', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRenderOutput.cpp(240,57): warning C5219: implicit conversion from 'const physx::PxU32' to 'physx::PxReal', possible loss of data
+  GuContactConvexConvex.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\contact\GuContactCapsuleConvex.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\contact\GuContactCapsuleConvex.cpp)
+  GuContactConvexMesh.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuContactCapsuleCapsule.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuContactBoxBox.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuContactCapsuleBox.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuContactCapsuleMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuContactConvexConvex.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuContactCapsuleConvex.cpp)
+  GuContactPlaneBox.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\contact\GuContactCapsuleMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\contact\GuContactCapsuleMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuContactConvexMesh.cpp)
+  GuContactPlaneCapsule.cpp
+  GuContactPlaneConvex.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\contact\GuContactConvexMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\contact\GuContactConvexMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuContactPlaneBox.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuContactPlaneCapsule.cpp)
+  GuContactPolygonPolygon.cpp
+  GuContactSphereBox.cpp
+  GuContactSphereCapsule.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuContactPlaneConvex.cpp)
+  GuContactSphereMesh.cpp
+  GuContactSpherePlane.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuContactPolygonPolygon.cpp)
+  GuContactSphereSphere.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuContactSphereCapsule.cpp)
+  GuFeatureCode.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuContactSphereBox.cpp)
+  GuLegacyContactBoxHeightField.cpp
+  GuLegacyContactCapsuleHeightField.cpp
+  GuLegacyContactConvexHeightField.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuContactSphereMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuContactSpherePlane.cpp)
+  GuLegacyContactSphereHeightField.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\contact\GuContactSphereMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\contact\GuContactSphereMesh.cpp)
+  GuBarycentricCoordinates.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuContactSphereSphere.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuLegacyContactBoxHeightField.cpp)
+  GuSeparatingAxes.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\contact\GuLegacyContactBoxHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\contact\GuLegacyContactBoxHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\contact\GuLegacyContactBoxHeightField.cpp(425,45): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\contact\GuLegacyContactBoxHeightField.cpp(425,119): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuLegacyContactConvexHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(983,13): warning C5219: implicit conversion from 'physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuLegacyContactBoxHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\contact\GuLegacyTraceLineCallback.h(148): message : see reference to function template instantiation 'void physx::Gu::HeightFieldTraceUtil::traceSegment<physx::Gu::GuContactTraceSegmentCallback,true,false>(const physx::PxVec3 &,const physx::PxVec3 &,const float,T *,const physx::PxBounds3 &,bool,const physx::PxVec3 *) const' being compiled
+          with
+          [
+              T=physx::Gu::GuContactTraceSegmentCallback
+          ] (compiling source file ..\..\GeomUtils\src\contact\GuLegacyContactBoxHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(983,58): warning C5219: implicit conversion from 'const physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuLegacyContactBoxHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(983,44): warning C5219: implicit conversion from 'physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuLegacyContactBoxHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(993,13): warning C5219: implicit conversion from 'physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuLegacyContactBoxHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(993,58): warning C5219: implicit conversion from 'const physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuLegacyContactBoxHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(993,44): warning C5219: implicit conversion from 'physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuLegacyContactBoxHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\contact\GuLegacyContactConvexHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\contact\GuLegacyContactConvexHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuLegacyContactCapsuleHeightField.cpp)
+  GuBigConvexData.cpp
+  GuConvexHelper.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\contact\GuLegacyContactCapsuleHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\contact\GuLegacyContactCapsuleHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\contact\GuLegacyContactConvexHeightField.cpp(391,45): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\contact\GuLegacyContactConvexHeightField.cpp(391,119): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(983,13): warning C5219: implicit conversion from 'physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuLegacyContactConvexHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\contact\GuLegacyTraceLineCallback.h(148): message : see reference to function template instantiation 'void physx::Gu::HeightFieldTraceUtil::traceSegment<physx::Gu::GuContactTraceSegmentCallback,true,false>(const physx::PxVec3 &,const physx::PxVec3 &,const float,T *,const physx::PxBounds3 &,bool,const physx::PxVec3 *) const' being compiled
+          with
+          [
+              T=physx::Gu::GuContactTraceSegmentCallback
+          ] (compiling source file ..\..\GeomUtils\src\contact\GuLegacyContactConvexHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(983,58): warning C5219: implicit conversion from 'const physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuLegacyContactConvexHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(983,44): warning C5219: implicit conversion from 'physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuLegacyContactConvexHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(993,13): warning C5219: implicit conversion from 'physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuLegacyContactConvexHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(993,58): warning C5219: implicit conversion from 'const physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuLegacyContactConvexHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(993,44): warning C5219: implicit conversion from 'physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuLegacyContactConvexHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\contact\GuLegacyContactCapsuleHeightField.cpp(221,19): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\contact\GuLegacyContactCapsuleHeightField.cpp(221,90): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\contact\GuLegacyContactSphereHeightField.cpp)
+  GuConvexMesh.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\contact\GuLegacyContactSphereHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\contact\GuLegacyContactSphereHeightField.cpp)
+  GuConvexSupportTable.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\convex\GuConvexHelper.cpp)
+  GuConvexUtilsInternal.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\convex\GuConvexMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\convex\GuConvexMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\convex\GuConvexMesh.cpp)
+  GuHillClimbing.cpp
+  GuShapeConvex.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\convex\GuConvexUtilsInternal.cpp)
+  GuDistancePointBox.cpp
+  GuDistancePointTriangle.cpp
+  GuDistanceSegmentBox.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\convex\GuConvexUtilsInternal.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\convex\GuConvexUtilsInternal.cpp)
+  GuDistanceSegmentSegment.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\distance\GuDistancePointBox.cpp)
+  GuDistanceSegmentTriangle.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\convex\GuShapeConvex.cpp)
+  GuSweepBoxBox.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\distance\GuDistanceSegmentBox.cpp)
+  GuSweepBoxSphere.cpp
+  GuSweepBoxTriangle_FeatureBased.cpp
+  GuSweepBoxTriangle_SAT.cpp
+  GuSweepCapsuleBox.cpp
+  GuSweepCapsuleCapsule.cpp
+  GuSweepCapsuleTriangle.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\sweep\GuSweepBoxBox.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\sweep\GuSweepBoxTriangle_FeatureBased.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\sweep\GuSweepBoxTriangle_SAT.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\sweep\GuSweepBoxSphere.cpp)
+  GuSweepSphereCapsule.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\sweep\GuSweepCapsuleBox.cpp)
+  GuSweepSphereSphere.cpp
+  GuSweepSphereTriangle.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\sweep\GuSweepCapsuleTriangle.cpp)
+  GuSweepTriangleUtils.cpp
+  GuEPA.cpp
+  GuGJKSimplex.cpp
+  GuGJKTest.cpp
+  GuIntersectionBoxBox.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\sweep\GuSweepSphereTriangle.cpp)
+  GuIntersectionCapsuleTriangle.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\sweep\GuSweepTriangleUtils.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\intersection\GuIntersectionBoxBox.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\gjk\GuGJKTest.cpp)
+  GuIntersectionEdgeEdge.cpp
+  GuIntersectionRayBox.cpp
+  GuIntersectionRayCapsule.cpp
+  GuIntersectionRaySphere.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\intersection\GuIntersectionEdgeEdge.cpp)
+  GuIntersectionSphereBox.cpp
+  GuIntersectionTriangleBox.cpp
+  GuBV32.cpp
+  GuBV32Build.cpp
+  GuBV4.cpp
+  GuBV4Build.cpp
+  GuBV4_AABBSweep.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\intersection\GuIntersectionSphereBox.cpp)
+  GuBV4_BoxOverlap.cpp
+  GuBV4_CapsuleSweep.cpp
+  GuBV4_CapsuleSweepAA.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\intersection\GuIntersectionTriangleBox.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\mesh\GuBV4_AABBSweep.cpp)
+  GuBV4_OBBSweep.cpp
+  GuBV4_Raycast.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\mesh\GuBV4Build.cpp)
+  GuBV4_SphereOverlap.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\mesh\GuBV4_CapsuleSweep.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\mesh\GuBV4_CapsuleSweepAA.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\mesh\GuBV4_BoxOverlap.cpp)
+  GuBV4_SphereSweep.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\mesh\GuBV4_Raycast.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\mesh\GuBV4_OBBSweep.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\mesh\GuBV4_SphereOverlap.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\mesh\GuBV4_SphereSweep.cpp)
+  GuMeshQuery.cpp
+  GuMidphaseBV4.cpp
+  GuMidphaseRTree.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\mesh\GuMeshQuery.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\mesh\GuMeshQuery.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\mesh\GuMeshQuery.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\mesh\GuMidphaseRTree.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\mesh\GuMidphaseRTree.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\mesh\GuMidphaseRTree.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\mesh\GuMidphaseBV4.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\mesh\GuMidphaseBV4.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\mesh\GuMidphaseBV4.cpp)
+  GuOverlapTestsMesh.cpp
+  GuRTree.cpp
+  GuRTreeQueries.cpp
+  GuSweepsMesh.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\mesh\GuOverlapTestsMesh.cpp)
+  GuTriangleMesh.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\mesh\GuOverlapTestsMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\mesh\GuOverlapTestsMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\mesh\GuSweepsMesh.cpp)
+  GuTriangleMeshBV4.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\mesh\GuSweepsMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\mesh\GuSweepsMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\mesh\GuRTreeQueries.cpp)
+  GuTriangleMeshRTree.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\mesh\GuTriangleMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\mesh\GuTriangleMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\mesh\GuTriangleMesh.cpp)
+  GuHeightField.cpp
+  GuHeightFieldUtil.cpp
+  GuOverlapTestsHF.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\mesh\GuTriangleMeshBV4.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\mesh\GuTriangleMeshBV4.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\mesh\GuTriangleMeshBV4.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\hf\GuHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\hf\GuHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\hf\GuHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\mesh\GuTriangleMeshRTree.cpp)
+  GuSweepsHF.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\mesh\GuTriangleMeshRTree.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\mesh\GuTriangleMeshRTree.cpp)
+  GuPCMContactBoxBox.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\hf\GuHeightFieldUtil.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\hf\GuHeightFieldUtil.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\hf\GuHeightFieldUtil.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\hf\GuOverlapTestsHF.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\hf\GuOverlapTestsHF.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\hf\GuOverlapTestsHF.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\hf\GuSweepsHF.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\hf\GuSweepsHF.cpp)
+  GuPCMContactBoxConvex.cpp
+  GuPCMContactCapsuleBox.cpp
+  GuPCMContactCapsuleCapsule.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\hf\GuSweepsHF.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.cpp(298,38): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.cpp(298,167): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.cpp(340,20): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.cpp(340,49): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.cpp(351,20): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.cpp(351,49): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.cpp(360,20): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.cpp(360,57): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.cpp(370,20): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.cpp(370,49): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.cpp(509,25): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.cpp(509,55): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.cpp(522,20): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.cpp(522,57): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.cpp(546,20): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.cpp(546,49): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.cpp(559,25): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.cpp(559,63): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.cpp(629,20): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.cpp(629,49): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.cpp(638,20): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.cpp(638,49): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.cpp(645,20): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.cpp(645,57): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.cpp(653,20): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.cpp(653,49): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuOverlapTestsHF.cpp(462,56): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuOverlapTestsHF.cpp(462,126): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuOverlapTestsHF.cpp(667,39): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuOverlapTestsHF.cpp(667,101): warning C5219: implicit conversion from 'physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(983,13): warning C5219: implicit conversion from 'physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\hf\GuOverlapTestsHF.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuOverlapTestsHF.cpp(355): message : see reference to function template instantiation 'void physx::Gu::HeightFieldTraceUtil::traceSegment<physx::Gu::TriggerTraceSegmentCallback,false,false>(const physx::PxVec3 &,const physx::PxVec3 &,const float,T *,const physx::PxBounds3 &,bool,const physx::PxVec3 *) const' being compiled
+          with
+          [
+              T=physx::Gu::TriggerTraceSegmentCallback
+          ]
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(983,58): warning C5219: implicit conversion from 'const physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\hf\GuOverlapTestsHF.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(983,44): warning C5219: implicit conversion from 'physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\hf\GuOverlapTestsHF.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(993,13): warning C5219: implicit conversion from 'physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\hf\GuOverlapTestsHF.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(993,58): warning C5219: implicit conversion from 'const physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\hf\GuOverlapTestsHF.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(993,44): warning C5219: implicit conversion from 'physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\hf\GuOverlapTestsHF.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(983,13): warning C5219: implicit conversion from 'physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\hf\GuSweepsHF.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuSweepsHF.cpp(71): message : see reference to function template instantiation 'void physx::Gu::HeightFieldTraceUtil::traceSegment<T,false,true>(const physx::PxVec3 &,const physx::PxVec3 &,const float,T *,const physx::PxBounds3 &,bool,const physx::PxVec3 *) const' being compiled
+          with
+          [
+              T=CapsuleTraceSegmentReport
+          ]
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuSweepsHF.cpp(252): message : see reference to function template instantiation 'void HeightFieldTraceSegmentSweepHelper::traceSegment<CapsuleTraceSegmentReport>(const physx::PxVec3 &,const physx::PxVec3 &,const float,T *) const' being compiled
+          with
+          [
+              T=CapsuleTraceSegmentReport
+          ]
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(983,58): warning C5219: implicit conversion from 'const physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\hf\GuSweepsHF.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(983,44): warning C5219: implicit conversion from 'physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\hf\GuSweepsHF.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(993,13): warning C5219: implicit conversion from 'physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\hf\GuSweepsHF.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(993,58): warning C5219: implicit conversion from 'const physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\hf\GuSweepsHF.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(993,44): warning C5219: implicit conversion from 'physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\hf\GuSweepsHF.cpp)
+  GuPCMContactCapsuleConvex.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactBoxBox.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactBoxConvex.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactCapsuleBox.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactCapsuleCapsule.cpp)
+  GuPCMContactCapsuleHeightField.cpp
+  GuPCMContactCapsuleMesh.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactCapsuleConvex.cpp)
+  GuPCMContactConvexCommon.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactCapsuleHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactCapsuleMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactCapsuleHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactCapsuleHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactConvexCommon.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactCapsuleMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactCapsuleMesh.cpp)
+  GuPCMContactConvexConvex.cpp
+  GuPCMContactConvexHeightField.cpp
+  GuPCMContactConvexMesh.cpp
+  GuPCMContactGenBoxConvex.cpp
+  GuPCMContactGenSphereCapsule.cpp
+  GuPCMContactPlaneBox.cpp
+  GuPCMContactPlaneCapsule.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactConvexConvex.cpp)
+  GuPCMContactPlaneConvex.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactConvexMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactConvexHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactGenBoxConvex.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactGenSphereCapsule.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactConvexHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactConvexHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactPlaneBox.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactConvexMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactConvexMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactPlaneCapsule.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactPlaneConvex.cpp)
+  GuPCMContactSphereBox.cpp
+  GuPCMContactSphereCapsule.cpp
+  GuPCMContactSphereConvex.cpp
+  GuPCMContactSphereHeightField.cpp
+  GuPCMContactSphereMesh.cpp
+  GuPCMContactSpherePlane.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactSphereBox.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactSphereCapsule.cpp)
+  GuPCMContactSphereSphere.cpp
+  GuPCMShapeConvex.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactSphereConvex.cpp)
+  GuPCMTriangleContactGen.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactSpherePlane.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactSphereHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactSphereMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactSphereHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactSphereHeightField.cpp)
+  GuPersistentContactManifold.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactSphereMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactSphereMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\pcm\GuPCMContactSphereSphere.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\pcm\GuPCMShapeConvex.cpp)
+  GuCCDSweepConvexMesh.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\pcm\GuPCMTriangleContactGen.cpp)
+  GuCCDSweepPrimitives.cpp
+  GuBounds.cpp
+  GuBox.cpp
+  GuCapsule.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\ccd\GuCCDSweepConvexMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\ccd\GuCCDSweepConvexMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\ccd\GuCCDSweepConvexMesh.cpp)
+  GuCCTSweepTests.cpp
+  GuGeometryQuery.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\GuCapsule.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\ccd\GuCCDSweepConvexMesh.cpp(185,37): warning C5219: implicit conversion from 'physx::PxU32' to 'float', possible loss of data
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\ccd\GuCCDSweepPrimitives.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\GuBox.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\GuCCTSweepTests.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\GuCCTSweepTests.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\GuBounds.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\GuBounds.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\GuBounds.cpp)
+  GuGeometryUnion.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\GuGeometryQuery.cpp)
+  GuInternal.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\GuCCTSweepTests.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\GuGeometryQuery.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\GuGeometryQuery.cpp)
+  GuMeshFactory.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\GuInternal.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\GuGeometryUnion.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\GuGeometryUnion.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\GuGeometryUnion.cpp)
+  GuMetaData.cpp
+  GuMTD.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\GuMeshFactory.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\GuMeshFactory.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\GuMeshFactory.cpp)
+  GuOverlapTests.cpp
+  GuRaycastTests.cpp
+  GuSerialize.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\GuMetaData.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\GuMetaData.cpp)
+  GuSweepMTD.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\GuMetaData.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\GuMTD.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\GuOverlapTests.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\GuRaycastTests.cpp)
+  GuSweepSharedTests.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\GuRaycastTests.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\GuRaycastTests.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\GuSweepMTD.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\GuSweepMTD.cpp)
+  GuSweepTests.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\GuMTD.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\GuMTD.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\GuSweepSharedTests.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\GuSweepSharedTests.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\GuSweepMTD.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\GeomUtils\src\GuOverlapTests.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\GeomUtils\src\GuOverlapTests.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\GuSweepSharedTests.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(983,13): warning C5219: implicit conversion from 'physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\GuRaycastTests.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\GuRaycastTests.cpp(528): message : see reference to function template instantiation 'void physx::Gu::HeightFieldTraceUtil::traceSegment<`anonymous-namespace'::HFTraceSegmentCallback,false,false>(const physx::PxVec3 &,const physx::PxVec3 &,const float,T *,const physx::PxBounds3 &,bool,const physx::PxVec3 *) const' being compiled
+          with
+          [
+              T=`anonymous-namespace'::HFTraceSegmentCallback
+          ]
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(983,58): warning C5219: implicit conversion from 'const physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\GuRaycastTests.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(983,44): warning C5219: implicit conversion from 'physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\GuRaycastTests.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(993,13): warning C5219: implicit conversion from 'physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\GuRaycastTests.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(993,58): warning C5219: implicit conversion from 'const physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\GuRaycastTests.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\GeomUtils\src\hf\GuHeightFieldUtil.h(993,44): warning C5219: implicit conversion from 'physx::PxI32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\GuRaycastTests.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\GeomUtils\src\GuSweepTests.cpp)
+     Creating library ./../../../Lib/vc15win64/PhysX3Common_x64.lib and object ./../../../Lib/vc15win64/PhysX3Common_x64.exp
+LINK : warning LNK4199: /DELAYLOAD:PxFoundation_x64.dll ignored; no imports found from PxFoundation_x64.dll
+  PhysXCommon.vcxproj -> C:\CatalystEngine\libs\PhysX\PhysX_3.4\bin\vc15win64\PhysX3Common_x64.dll

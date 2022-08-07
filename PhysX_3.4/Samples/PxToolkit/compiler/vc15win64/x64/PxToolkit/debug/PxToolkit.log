@@ -1,0 +1,11 @@
+﻿  Vcpkg is unable to link because we cannot decide between Release and Debug libraries. Please define the property VcpkgConfiguration to be 'Release' or 'Debug' (currently 'debug').
+  PxTkBmpLoader.cpp
+  PxTkFPS.cpp
+  PxTkMatrixUtils.cpp
+  PxTkRandom.cpp
+  PxTkStream.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\PxToolkit\include\PxTkRandom.h(66,33): warning C5219: implicit conversion from 'physx::PxU32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\src\PxTkRandom.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\PxToolkit\include\PxTkRandom.h(77,22): warning C5219: implicit conversion from 'physx::PxU32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\src\PxTkRandom.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\PxToolkit\include\PxTkRandom.h(81,24): warning C5219: implicit conversion from 'physx::PxU32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\src\PxTkRandom.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\PxToolkit\include\PxTkRandom.h(84,63): warning C5219: implicit conversion from 'physx::PxU32' to 'physx::PxF32', possible loss of data (compiling source file ..\..\src\PxTkRandom.cpp)
+  PxToolkit.vcxproj -> C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\PxToolkit\lib\vc15win64\PxToolkitDEBUG.lib

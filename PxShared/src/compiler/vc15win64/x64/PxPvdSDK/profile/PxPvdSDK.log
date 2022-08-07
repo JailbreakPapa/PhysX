@@ -1,0 +1,61 @@
+﻿  Vcpkg is unable to link because we cannot decide between Release and Debug libraries. Please define the property VcpkgConfiguration to be 'Release' or 'Debug' (currently 'profile').
+  PxWindowsPvdDelayLoadHook.cpp
+  PxProfileEventImpl.cpp
+  PxPvd.cpp
+  PxPvdDataStream.cpp
+  PxPvdDefaultFileTransport.cpp
+  PxPvdDefaultSocketTransport.cpp
+  PxPvdImpl.cpp
+  PxPvdMemClient.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\pvd\src\PxProfileDataBuffer.h(162,1): warning C5220: 'physx::profile::DataBuffer<TMutex,TScopedLock>::mHasClients': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial
+          with
+          [
+              TMutex=physx::profile::TZoneMutexType,
+              TScopedLock=physx::profile::TZoneLockType
+          ] (compiling source file ..\..\pvd\src\PxProfileEventImpl.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\pvd\src\PxProfileDataBuffer.h(60): message : see declaration of 'physx::profile::DataBuffer<TMutex,TScopedLock>::mHasClients'
+          with
+          [
+              TMutex=physx::profile::TZoneMutexType,
+              TScopedLock=physx::profile::TZoneLockType
+          ] (compiling source file ..\..\pvd\src\PxProfileEventImpl.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\pvd\src\PxProfileEventBuffer.h(114): message : see reference to class template instantiation 'physx::profile::DataBuffer<TMutex,TScopedLock>' being compiled
+          with
+          [
+              TMutex=physx::profile::TZoneMutexType,
+              TScopedLock=physx::profile::TZoneLockType
+          ] (compiling source file ..\..\pvd\src\PxProfileEventImpl.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\pvd\src\PxProfileZoneImpl.h(59): message : see reference to class template instantiation 'physx::profile::EventBuffer<physx::profile::PxDefaultContextProvider,physx::profile::TZoneMutexType,physx::profile::TZoneLockType,physx::profile::PxProfileNullEventFilter>' being compiled (compiling source file ..\..\pvd\src\PxProfileEventImpl.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\pvd\src\PxProfileZoneImpl.h(313): message : see reference to class template instantiation 'physx::profile::ZoneImpl<TNameProvider>' being compiled (compiling source file ..\..\pvd\src\PxProfileEventImpl.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\pvd\src\PxProfileDataBuffer.h(162,1): warning C5220: 'physx::profile::DataBuffer<TMutex,TScopedLock>::mHasClients': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial
+          with
+          [
+              TMutex=physx::profile::PxProfileEventMutex,
+              TScopedLock=physx::profile::NullLock
+          ] (compiling source file ..\..\pvd\src\PxProfileEventImpl.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\pvd\src\PxProfileDataBuffer.h(60): message : see declaration of 'physx::profile::DataBuffer<TMutex,TScopedLock>::mHasClients'
+          with
+          [
+              TMutex=physx::profile::PxProfileEventMutex,
+              TScopedLock=physx::profile::NullLock
+          ] (compiling source file ..\..\pvd\src\PxProfileEventImpl.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\pvd\src\PxProfileMemoryEventBuffer.h(49): message : see reference to class template instantiation 'physx::profile::DataBuffer<TMutex,TScopedLock>' being compiled
+          with
+          [
+              TMutex=physx::profile::PxProfileEventMutex,
+              TScopedLock=physx::profile::NullLock
+          ] (compiling source file ..\..\pvd\src\PxProfileEventImpl.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\pvd\src\PxProfileMemoryEventBuffer.h(129): message : see reference to class template instantiation 'physx::profile::MemoryEventBuffer<physx::profile::PxProfileEventMutex,physx::profile::NullLock>' being compiled (compiling source file ..\..\pvd\src\PxProfileEventImpl.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\pvd\src\PxProfileZoneImpl.h(313,1): warning C5220: 'physx::profile::ZoneImpl<physx::profile::PxProfileNameProviderForward>::mEventsActive': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\pvd\src\PxProfileEventImpl.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\pvd\src\PxProfileZoneImpl.h(82): message : see declaration of 'physx::profile::ZoneImpl<physx::profile::PxProfileNameProviderForward>::mEventsActive' (compiling source file ..\..\pvd\src\PxProfileEventImpl.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\pvd\src\PxProfileEventImpl.cpp(151): message : see reference to class template instantiation 'physx::profile::ZoneImpl<physx::profile::PxProfileNameProviderForward>' being compiled
+  PxPvdObjectModelMetaData.cpp
+  PxPvdObjectRegistrar.cpp
+  PxPvdProfileZoneClient.cpp
+  PxPvdUserRenderer.cpp
+     Creating library ./../../../lib/vc15win64/PxPvdSDKPROFILE_x64.lib and object ./../../../lib/vc15win64/PxPvdSDKPROFILE_x64.exp
+LINK : warning LNK4199: /DELAYLOAD:PxFoundationPROFILE_x64.dll ignored; no imports found from PxFoundationPROFILE_x64.dll
+  PxPvdSDK.vcxproj -> C:\CatalystEngine\libs\PhysX\PxShared\bin\vc15win64\PxPvdSDKPROFILE_x64.dll

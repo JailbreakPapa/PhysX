@@ -1,0 +1,87 @@
+﻿  Vcpkg is unable to link because we cannot decide between Release and Debug libraries. Please define the property VcpkgConfiguration to be 'Release' or 'Debug' (currently 'release').
+  SqAABBPruner.cpp
+  SqAABBTree.cpp
+  SqAABBTreeBuild.cpp
+  SqAABBTreeUpdateMap.cpp
+  SqBounds.cpp
+  SqBucketPruner.cpp
+  SqExtendedBucketPruner.cpp
+  SqIncrementalAABBPrunerCore.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SceneQuery\src\SqAABBPruner.cpp)
+  SqIncrementalAABBTree.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SceneQuery\src\SqAABBTree.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SceneQuery\src\SqBucketPruner.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SceneQuery\src\SqAABBTreeBuild.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SceneQuery\src\SqExtendedBucketPruner.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SceneQuery\src\SqIncrementalAABBPrunerCore.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SceneQuery\src\SqBounds.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SceneQuery\src\SqBounds.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\SceneQuery\src\SqBounds.cpp)
+  SqMetaData.cpp
+  SqPruningPool.cpp
+  SqPruningStructure.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SceneQuery\src\SqBounds.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SceneQuery\src\SqBounds.cpp)
+  SqSceneQueryManager.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SceneQuery\src\SqIncrementalAABBTree.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SceneQuery\src\SqBounds.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SceneQuery\src\SqBounds.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SceneQuery\src\SqSceneQueryManager.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SceneQuery\src\SqSceneQueryManager.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SceneQuery\src\SqPruningPool.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SceneQuery\src\SqPruningStructure.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SceneQuery\src\SqSceneQueryManager.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SceneQuery\src\SqPruningStructure.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SceneQuery\src\SqPruningStructure.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SceneQuery\src\SqSceneQueryManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SceneQuery\src\SqSceneQueryManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SceneQuery\src\SqPruningStructure.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SceneQuery\src\SqPruningStructure.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SceneQuery\include\SqSceneQueryManager.h(179,2): warning C5220: 'physx::Sq::SceneQueryManager::mPrunerNeedsUpdating': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SceneQuery\src\SqPruningStructure.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SceneQuery\include\SqSceneQueryManager.h(175): message : see declaration of 'physx::Sq::SceneQueryManager::mPrunerNeedsUpdating' (compiling source file ..\..\SceneQuery\src\SqPruningStructure.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SceneQuery\include\SqSceneQueryManager.h(179,2): warning C5220: 'physx::Sq::SceneQueryManager::mPrunerNeedsUpdating': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SceneQuery\src\SqSceneQueryManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SceneQuery\include\SqSceneQueryManager.h(175): message : see declaration of 'physx::Sq::SceneQueryManager::mPrunerNeedsUpdating' (compiling source file ..\..\SceneQuery\src\SqSceneQueryManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SceneQuery\src\SqPruningStructure.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\SceneQuery\src\SqPruningStructure.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysX\src\NpBatchQuery.h(162,1): warning C5220: 'physx::NpBatchQuery::mBatchQueryIsRunning': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SceneQuery\src\SqSceneQueryManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysX\src\NpBatchQuery.h(155): message : see declaration of 'physx::NpBatchQuery::mBatchQueryIsRunning' (compiling source file ..\..\SceneQuery\src\SqSceneQueryManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysX\src\NpScene.h(499,1): warning C5220: 'physx::NpScene::mConcurrentWriteCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SceneQuery\src\SqPruningStructure.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysX\src\NpScene.h(486): message : see declaration of 'physx::NpScene::mConcurrentWriteCount' (compiling source file ..\..\SceneQuery\src\SqPruningStructure.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysX\src\NpScene.h(499,1): warning C5220: 'physx::NpScene::mConcurrentReadCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SceneQuery\src\SqPruningStructure.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysX\src\NpScene.h(487): message : see declaration of 'physx::NpScene::mConcurrentReadCount' (compiling source file ..\..\SceneQuery\src\SqPruningStructure.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SceneQuery\src\SqSceneQueryManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\SceneQuery\src\SqSceneQueryManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysX\src\NpScene.h(499,1): warning C5220: 'physx::NpScene::mConcurrentErrorCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SceneQuery\src\SqPruningStructure.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysX\src\NpScene.h(488): message : see declaration of 'physx::NpScene::mConcurrentErrorCount' (compiling source file ..\..\SceneQuery\src\SqPruningStructure.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysX\src\NpScene.h(499,1): warning C5220: 'physx::NpScene::mConcurrentWriteCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SceneQuery\src\SqSceneQueryManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysX\src\NpScene.h(486): message : see declaration of 'physx::NpScene::mConcurrentWriteCount' (compiling source file ..\..\SceneQuery\src\SqSceneQueryManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysX\src\NpScene.h(499,1): warning C5220: 'physx::NpScene::mConcurrentReadCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SceneQuery\src\SqSceneQueryManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysX\src\NpScene.h(487): message : see declaration of 'physx::NpScene::mConcurrentReadCount' (compiling source file ..\..\SceneQuery\src\SqSceneQueryManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysX\src\NpScene.h(499,1): warning C5220: 'physx::NpScene::mConcurrentErrorCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SceneQuery\src\SqSceneQueryManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysX\src\NpScene.h(488): message : see declaration of 'physx::NpScene::mConcurrentErrorCount' (compiling source file ..\..\SceneQuery\src\SqSceneQueryManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysX\src\NpShape.h(209,1): warning C5220: 'physx::NpShape::mExclusiveAndActorCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SceneQuery\src\SqPruningStructure.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysX\src\NpShape.h(208): message : see declaration of 'physx::NpShape::mExclusiveAndActorCount' (compiling source file ..\..\SceneQuery\src\SqPruningStructure.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysX\src\NpShape.h(209,1): warning C5220: 'physx::NpShape::mExclusiveAndActorCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SceneQuery\src\SqSceneQueryManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysX\src\NpShape.h(208): message : see declaration of 'physx::NpShape::mExclusiveAndActorCount' (compiling source file ..\..\SceneQuery\src\SqSceneQueryManager.cpp)
+LINK : warning LNK4044: unrecognized option '/INCREMENTAL:NO'; ignored
+  SceneQuery.vcxproj -> C:\CatalystEngine\libs\PhysX\PhysX_3.4\Lib\vc15win64\SceneQuery.lib

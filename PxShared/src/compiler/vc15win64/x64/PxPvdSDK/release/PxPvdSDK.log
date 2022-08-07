@@ -1,0 +1,2 @@
+﻿  Vcpkg is unable to link because we cannot decide between Release and Debug libraries. Please define the property VcpkgConfiguration to be 'Release' or 'Debug' (currently 'release').
+  PxPvdSDK.vcxproj -> C:\CatalystEngine\libs\PhysX\PxShared\bin\vc15win64\PxPvdSDK_x64.dll

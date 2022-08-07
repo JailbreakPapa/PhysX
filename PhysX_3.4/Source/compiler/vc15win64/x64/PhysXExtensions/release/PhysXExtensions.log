@@ -1,0 +1,133 @@
+﻿  Vcpkg is unable to link because we cannot decide between Release and Debug libraries. Please define the property VcpkgConfiguration to be 'Release' or 'Debug' (currently 'release').
+  ExtBroadPhase.cpp
+  ExtClothFabricCooker.cpp
+  ExtClothGeodesicTetherCooker.cpp
+  ExtClothMeshQuadifier.cpp
+  ExtClothSimpleTetherCooker.cpp
+  ExtCollection.cpp
+  ExtConvexMeshExt.cpp
+  ExtCpuWorkerThread.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\PhysXExtensions\src\ExtCpuWorkerThread.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\PhysXExtensions\src\ExtCpuWorkerThread.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\PhysXExtensions\src\ExtClothGeodesicTetherCooker.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\PhysXExtensions\src\ExtCollection.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\PhysXExtensions\src\ExtCollection.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\PhysXExtensions\src\ExtClothMeshQuadifier.cpp)
+  ExtD6Joint.cpp
+  ExtD6JointSolverPrep.cpp
+  ExtDefaultCpuDispatcher.cpp
+  ExtDefaultErrorCallback.cpp
+  ExtDefaultSimulationFilterShader.cpp
+  ExtDefaultStreams.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\PhysXExtensions\src\ExtDefaultCpuDispatcher.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\PhysXExtensions\src\ExtDefaultCpuDispatcher.cpp)
+  ExtDistanceJoint.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\PhysXExtensions\src\ExtD6Joint.cpp)
+  ExtDistanceJointSolverPrep.cpp
+  ExtExtensions.cpp
+  ExtFixedJoint.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\PhysXExtensions\src\ExtD6JointSolverPrep.cpp)
+  ExtFixedJointSolverPrep.cpp
+  ExtJoint.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\PhysXExtensions\src\ExtExtensions.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\PhysXExtensions\src\ExtExtensions.cpp)
+  ExtMetaData.cpp
+  ExtParticleExt.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\PhysXExtensions\src\ExtExtensions.cpp)
+  ExtPrismaticJoint.cpp
+  ExtPrismaticJointSolverPrep.cpp
+  ExtPvd.cpp
+  ExtPxStringTable.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\PhysXExtensions\src\ExtParticleExt.cpp)
+  ExtRaycastCCD.cpp
+  ExtRevoluteJoint.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\PhysXExtensions\src\ExtMetaData.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\PhysXExtensions\src\ExtRaycastCCD.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\PhysXExtensions\src\ExtRaycastCCD.cpp)
+  ExtRevoluteJointSolverPrep.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\PhysXExtensions\src\ExtRevoluteJoint.cpp)
+  ExtRigidBodyExt.cpp
+  ExtSceneQueryExt.cpp
+  ExtSimpleFactory.cpp
+  ExtSmoothNormals.cpp
+  ExtSphericalJoint.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\PhysXExtensions\src\ExtSceneQueryExt.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\PhysXExtensions\src\ExtSceneQueryExt.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\PhysXExtensions\src\ExtRigidBodyExt.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\PhysXExtensions\src\ExtRigidBodyExt.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\PhysXExtensions\src\ExtRigidBodyExt.cpp)
+  ExtSphericalJointSolverPrep.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\PhysXExtensions\src\ExtSmoothNormals.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\PhysXExtensions\src\ExtRevoluteJointSolverPrep.cpp)
+  ExtTriangleMeshExt.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\PhysXExtensions\src\ExtSimpleFactory.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\PhysXExtensions\src\ExtSimpleFactory.cpp)
+  SnBinaryDeserialization.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\PhysXExtensions\src\ExtSphericalJoint.cpp)
+  SnBinarySerialization.cpp
+  SnConvX.cpp
+  SnConvX_Align.cpp
+  SnConvX_Convert.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\PhysXExtensions\src\ExtSphericalJointSolverPrep.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXExtensions\src\serialization\Binary\SnConvX_MetaData.h(93,21): warning C5243: 'physx::Sn::ConvertCallback': using incomplete class 'physx::Sn::ConvX' can cause potential one definition rule violation due to ABI limitation (compiling source file ..\..\PhysXExtensions\src\serialization\Binary\SnConvX_Align.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXExtensions\src\serialization\Binary\SnConvX_Output.h(36): message : see declaration of 'physx::Sn::ConvX' (compiling source file ..\..\PhysXExtensions\src\serialization\Binary\SnConvX_Align.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXExtensions\src\serialization\Binary\SnConvX_MetaData.h(93,21): message : consider using inheritance keywords on the forward declaration of the class to avoid the issue: 'class [__single_inheritance|__multiple_inheritance|__virtual_inheritance] class-name;' (compiling source file ..\..\PhysXExtensions\src\serialization\Binary\SnConvX_Align.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXExtensions\src\serialization\Binary\SnConvX_MetaData.h(93,21): warning C5243: 'physx::Sn::ConvertCallback': using incomplete class 'physx::Sn::ConvX' can cause potential one definition rule violation due to ABI limitation (compiling source file ..\..\PhysXExtensions\src\serialization\Binary\SnConvX.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXExtensions\src\serialization\Binary\SnConvX_Output.h(36): message : see declaration of 'physx::Sn::ConvX' (compiling source file ..\..\PhysXExtensions\src\serialization\Binary\SnConvX.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXExtensions\src\serialization\Binary\SnConvX_MetaData.h(93,21): message : consider using inheritance keywords on the forward declaration of the class to avoid the issue: 'class [__single_inheritance|__multiple_inheritance|__virtual_inheritance] class-name;' (compiling source file ..\..\PhysXExtensions\src\serialization\Binary\SnConvX.cpp)
+  SnConvX_Error.cpp
+  SnConvX_MetaData.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXExtensions\src\serialization\Binary\SnConvX_MetaData.h(93,21): warning C5243: 'physx::Sn::ConvertCallback': using incomplete class 'physx::Sn::ConvX' can cause potential one definition rule violation due to ABI limitation (compiling source file ..\..\PhysXExtensions\src\serialization\Binary\SnConvX_Convert.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXExtensions\src\serialization\Binary\SnConvX_Output.h(36): message : see declaration of 'physx::Sn::ConvX' (compiling source file ..\..\PhysXExtensions\src\serialization\Binary\SnConvX_Convert.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXExtensions\src\serialization\Binary\SnConvX_MetaData.h(93,21): message : consider using inheritance keywords on the forward declaration of the class to avoid the issue: 'class [__single_inheritance|__multiple_inheritance|__virtual_inheritance] class-name;' (compiling source file ..\..\PhysXExtensions\src\serialization\Binary\SnConvX_Convert.cpp)
+  SnConvX_Output.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXExtensions\src\serialization\Binary\SnConvX_MetaData.h(93,21): warning C5243: 'physx::Sn::ConvertCallback': using incomplete class 'physx::Sn::ConvX' can cause potential one definition rule violation due to ABI limitation (compiling source file ..\..\PhysXExtensions\src\serialization\Binary\SnConvX_Error.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXExtensions\src\serialization\Binary\SnConvX_Output.h(36): message : see declaration of 'physx::Sn::ConvX' (compiling source file ..\..\PhysXExtensions\src\serialization\Binary\SnConvX_Error.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXExtensions\src\serialization\Binary\SnConvX_MetaData.h(93,21): message : consider using inheritance keywords on the forward declaration of the class to avoid the issue: 'class [__single_inheritance|__multiple_inheritance|__virtual_inheritance] class-name;' (compiling source file ..\..\PhysXExtensions\src\serialization\Binary\SnConvX_Error.cpp)
+  SnConvX_Union.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXExtensions\src\serialization\Binary\SnConvX_MetaData.h(93,21): warning C5243: 'physx::Sn::ConvertCallback': using incomplete class 'physx::Sn::ConvX' can cause potential one definition rule violation due to ABI limitation (compiling source file ..\..\PhysXExtensions\src\serialization\Binary\SnConvX_MetaData.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXExtensions\src\serialization\Binary\SnConvX_Output.h(36): message : see declaration of 'physx::Sn::ConvX' (compiling source file ..\..\PhysXExtensions\src\serialization\Binary\SnConvX_MetaData.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXExtensions\src\serialization\Binary\SnConvX_MetaData.h(93,21): message : consider using inheritance keywords on the forward declaration of the class to avoid the issue: 'class [__single_inheritance|__multiple_inheritance|__virtual_inheritance] class-name;' (compiling source file ..\..\PhysXExtensions\src\serialization\Binary\SnConvX_MetaData.cpp)
+  SnSerializationContext.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXExtensions\src\serialization\Binary\SnConvX_MetaData.h(93,21): warning C5243: 'physx::Sn::ConvertCallback': using incomplete class 'physx::Sn::ConvX' can cause potential one definition rule violation due to ABI limitation (compiling source file ..\..\PhysXExtensions\src\serialization\Binary\SnConvX_Output.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXExtensions\src\serialization\Binary\SnConvX_Output.h(36): message : see declaration of 'physx::Sn::ConvX' (compiling source file ..\..\PhysXExtensions\src\serialization\Binary\SnConvX_Output.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXExtensions\src\serialization\Binary\SnConvX_MetaData.h(93,21): message : consider using inheritance keywords on the forward declaration of the class to avoid the issue: 'class [__single_inheritance|__multiple_inheritance|__virtual_inheritance] class-name;' (compiling source file ..\..\PhysXExtensions\src\serialization\Binary\SnConvX_Output.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXExtensions\src\serialization\Binary\SnConvX_MetaData.h(93,21): warning C5243: 'physx::Sn::ConvertCallback': using incomplete class 'physx::Sn::ConvX' can cause potential one definition rule violation due to ABI limitation (compiling source file ..\..\PhysXExtensions\src\serialization\Binary\SnConvX_Union.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXExtensions\src\serialization\Binary\SnConvX_Output.h(36): message : see declaration of 'physx::Sn::ConvX' (compiling source file ..\..\PhysXExtensions\src\serialization\Binary\SnConvX_Union.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXExtensions\src\serialization\Binary\SnConvX_MetaData.h(93,21): message : consider using inheritance keywords on the forward declaration of the class to avoid the issue: 'class [__single_inheritance|__multiple_inheritance|__virtual_inheritance] class-name;' (compiling source file ..\..\PhysXExtensions\src\serialization\Binary\SnConvX_Union.cpp)
+  SnJointRepXSerializer.cpp
+  SnRepXCoreSerializer.cpp
+  SnRepXUpgrader.cpp
+  SnXmlSerialization.cpp
+  SnSerialization.cpp
+  SnSerializationRegistry.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\PhysXExtensions\src\serialization\Xml\SnJointRepXSerializer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\PhysXExtensions\src\serialization\Xml\SnJointRepXSerializer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\PhysXExtensions\src\serialization\Xml\SnRepXCoreSerializer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\PhysXExtensions\src\serialization\Xml\SnRepXCoreSerializer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\PhysXExtensions\src\serialization\SnSerialization.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\PhysXExtensions\src\serialization\SnSerialization.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\PhysXExtensions\src\serialization\Xml\SnXmlSerialization.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\PhysXExtensions\src\serialization\Xml\SnXmlSerialization.cpp)
+  SnSerialUtils.cpp
+  PxExtensionAutoGeneratedMetaDataObjects.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXExtensions\src\serialization\Binary\SnConvX_MetaData.h(93,21): warning C5243: 'physx::Sn::ConvertCallback': using incomplete class 'physx::Sn::ConvX' can cause potential one definition rule violation due to ABI limitation (compiling source file ..\..\PhysXExtensions\src\serialization\SnSerialization.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXExtensions\src\serialization\Binary\SnConvX_Output.h(36): message : see declaration of 'physx::Sn::ConvX' (compiling source file ..\..\PhysXExtensions\src\serialization\SnSerialization.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXExtensions\src\serialization\Binary\SnConvX_MetaData.h(93,21): message : consider using inheritance keywords on the forward declaration of the class to avoid the issue: 'class [__single_inheritance|__multiple_inheritance|__virtual_inheritance] class-name;' (compiling source file ..\..\PhysXExtensions\src\serialization\SnSerialization.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\PhysXMetaData\extensions\src\PxExtensionAutoGeneratedMetaDataObjects.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\PhysXMetaData\extensions\src\PxExtensionAutoGeneratedMetaDataObjects.cpp)
+LINK : warning LNK4044: unrecognized option '/INCREMENTAL:NO'; ignored
+  PhysXExtensions.vcxproj -> C:\CatalystEngine\libs\PhysX\PhysX_3.4\Lib\vc15win64\PhysX3Extensions.lib

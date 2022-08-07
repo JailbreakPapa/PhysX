@@ -1,0 +1,51 @@
+﻿  Vcpkg is unable to link because we cannot decide between Release and Debug libraries. Please define the property VcpkgConfiguration to be 'Release' or 'Debug' (currently 'debug').
+  WindowsCookingDelayLoadHook.cpp
+  GrbTriangleMeshCooking.cpp
+  HeightFieldCooking.cpp
+  RTreeCooking.cpp
+  TriangleMeshBuilder.cpp
+  BigConvexDataBuilder.cpp
+  ConvexHullBuilder.cpp
+  ConvexHullLib.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\PhysXCooking\src\mesh\HeightFieldCooking.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\PhysXCooking\src\mesh\HeightFieldCooking.cpp)
+  ConvexHullUtils.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\PhysXCooking\src\convex\BigConvexDataBuilder.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\PhysXCooking\src\mesh\RTreeCooking.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\PhysXCooking\src\mesh\HeightFieldCooking.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXCooking\src\mesh\RTreeCooking.cpp(575,57): warning C5219: implicit conversion from 'physx::PxU32' to 'physx::PxF32', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXCooking\src\convex\BigConvexDataBuilder.cpp(275,33): warning C5219: implicit conversion from 'physx::PxU32' to 'const float', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXCooking\src\convex\BigConvexDataBuilder.cpp(276,33): warning C5219: implicit conversion from 'physx::PxU32' to 'const float', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\PhysXCooking\src\convex\ConvexHullBuilder.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\PhysXCooking\src\convex\ConvexHullBuilder.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\PhysXCooking\src\convex\ConvexHullUtils.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\PhysXCooking\src\mesh\TriangleMeshBuilder.cpp)
+  ConvexMeshBuilder.cpp
+  ConvexPolygonsBuilder.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXCooking\src\convex\ConvexHullUtils.cpp(835,29): warning C5219: implicit conversion from 'const physx::PxU32' to 'float', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXCooking\src\convex\ConvexHullUtils.cpp(889,17): warning C5219: implicit conversion from 'physx::PxU32' to 'const float', possible loss of data
+  InflationConvexHullLib.cpp
+  QuickHullConvexHullLib.cpp
+  VolumeIntegration.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\PhysXCooking\src\convex\ConvexMeshBuilder.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\PhysXCooking\src\convex\ConvexMeshBuilder.cpp)
+  Adjacencies.cpp
+  Cooking.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\PhysXCooking\src\convex\InflationConvexHullLib.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\PhysXCooking\src\convex\ConvexMeshBuilder.cpp)
+  CookingUtils.cpp
+  EdgeList.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp)
+  MeshCleaner.cpp
+  Quantizer.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\PhysXCooking\src\EdgeList.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\PhysXCooking\src\Cooking.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\PhysXCooking\src\Cooking.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\PhysXCooking\src\Cooking.cpp)
+     Creating library ./../../../Lib/vc15win64/PhysX3CookingDEBUG_x64.lib and object ./../../../Lib/vc15win64/PhysX3CookingDEBUG_x64.exp
+LINK : warning LNK4199: /DELAYLOAD:PhysX3CommonDEBUG_x64.dll ignored; no imports found from PhysX3CommonDEBUG_x64.dll
+  PhysXCooking.vcxproj -> C:\CatalystEngine\libs\PhysX\PhysX_3.4\bin\vc15win64\PhysX3CookingDEBUG_x64.dll

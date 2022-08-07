@@ -1,0 +1,27 @@
+﻿  Vcpkg is unable to link because we cannot decide between Release and Debug libraries. Please define the property VcpkgConfiguration to be 'Release' or 'Debug' (currently 'profile').
+  PsWindowsAtomic.cpp
+  PsWindowsCpu.cpp
+  PsWindowsFPU.cpp
+  PsWindowsMutex.cpp
+  PsWindowsPrintString.cpp
+  PsWindowsSList.cpp
+  PsWindowsSocket.cpp
+  PsWindowsSync.cpp
+  PsWindowsThread.cpp
+  PsWindowsTime.cpp
+  PsAllocator.cpp
+  PsAssert.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\src\windows\PsWindowsMutex.cpp(116,1): warning C5220: 'physx::shdfnd::ReadWriteLockImpl::readerCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\src\windows\PsWindowsMutex.cpp(115): message : see declaration of 'physx::shdfnd::ReadWriteLockImpl::readerCount'
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\src\windows\PsWindowsTime.cpp(87,21): warning C5219: implicit conversion from 'int64_t' to 'double', possible loss of data
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\src\windows\PsWindowsTime.cpp(92,25): warning C5219: implicit conversion from 'int64_t' to 'double', possible loss of data
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\src\windows\PsWindowsTime.cpp(97,9): warning C5219: implicit conversion from 'const int64_t' to 'double', possible loss of data
+  PsFoundation.cpp
+  PsMathUtils.cpp
+  PsString.cpp
+  PsTempAllocator.cpp
+  PsUtilities.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\foundation\src\PsMathUtils.cpp)
+     Creating library ./../../../lib/vc15win64/PxFoundationPROFILE_x64.lib and object ./../../../lib/vc15win64/PxFoundationPROFILE_x64.exp
+  PxFoundation.vcxproj -> C:\CatalystEngine\libs\PhysX\PxShared\bin\vc15win64\PxFoundationPROFILE_x64.dll

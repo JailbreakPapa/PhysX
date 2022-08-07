@@ -1,0 +1,37 @@
+﻿  Vcpkg is unable to link because we cannot decide between Release and Debug libraries. Please define the property VcpkgConfiguration to be 'Release' or 'Debug' (currently 'debug').
+cl : command line warning D9025: overriding '/WX-' with '/WX'
+cl : command line warning D9025: overriding '/fp:precise' with '/fp:fast'
+cl : command line warning D9025: overriding '/WX-' with '/WX'
+cl : command line warning D9025: overriding '/fp:precise' with '/fp:fast'
+  ClientServer.cpp
+cl : command line warning D9025: overriding '/WX-' with '/WX'
+cl : command line warning D9025: overriding '/fp:precise' with '/fp:fast'
+  FileRenderDebug.cpp
+cl : command line warning D9025: overriding '/WX-' with '/WX'
+cl : command line warning D9025: overriding '/fp:precise' with '/fp:fast'
+  Hull2MeshEdges.cpp
+cl : command line warning D9025: overriding '/WX-' with '/WX'
+cl : command line warning D9025: overriding '/fp:precise' with '/fp:fast'
+  InternalRenderDebug.cpp
+cl : command line warning D9025: overriding '/WX-' with '/WX'
+cl : command line warning D9025: overriding '/fp:precise' with '/fp:fast'
+  ProcessRenderDebug.cpp
+cl : command line warning D9025: overriding '/WX-' with '/WX'
+cl : command line warning D9025: overriding '/fp:precise' with '/fp:fast'
+  PsCommLayer.cpp
+cl : command line warning D9025: overriding '/WX-' with '/WX'
+cl : command line warning D9025: overriding '/fp:precise' with '/fp:fast'
+  PsCommStream.cpp
+cl : command line warning D9025: overriding '/WX-' with '/WX'
+cl : command line warning D9025: overriding '/fp:precise' with '/fp:fast'
+  RenderDebug.cpp
+  RenderDebugDLLMain.cpp
+C:\CatalystEngine\libs\PhysX\APEX_1.4\shared\general\RenderDebug\src\ProcessRenderDebug.cpp(1815,47): error C2220: the following warning is treated as an error
+C:\CatalystEngine\libs\PhysX\APEX_1.4\shared\general\RenderDebug\src\ProcessRenderDebug.cpp(1815,47): warning C5219: implicit conversion from 'const uint32_t' to 'float', possible loss of data
+C:\CatalystEngine\libs\PhysX\APEX_1.4\shared\general\RenderDebug\src\ProcessRenderDebug.cpp(1815,47): message : to simplify migration, consider the temporary use of /Wv:18 flag with the version of the compiler with which you used to build without warnings
+C:\CatalystEngine\libs\PhysX\APEX_1.4\shared\general\RenderDebug\src\ProcessRenderDebug.cpp(1893,47): warning C5219: implicit conversion from 'const uint32_t' to 'float', possible loss of data
+C:\CatalystEngine\libs\PhysX\APEX_1.4\shared\general\RenderDebug\src\ProcessRenderDebug.cpp(1893,47): message : to simplify migration, consider the temporary use of /Wv:18 flag with the version of the compiler with which you used to build without warnings
+C:\CatalystEngine\libs\PhysX\APEX_1.4\shared\general\RenderDebug\src\ProcessRenderDebug.cpp(3282,61): warning C5219: implicit conversion from 'uint32_t' to 'const float', possible loss of data
+C:\CatalystEngine\libs\PhysX\APEX_1.4\shared\general\RenderDebug\src\ProcessRenderDebug.cpp(3282,61): message : to simplify migration, consider the temporary use of /Wv:18 flag with the version of the compiler with which you used to build without warnings
+C:\CatalystEngine\libs\PhysX\APEX_1.4\shared\general\RenderDebug\src\ProcessRenderDebug.cpp(3282,74): warning C5219: implicit conversion from 'const uint32_t' to 'float', possible loss of data
+C:\CatalystEngine\libs\PhysX\APEX_1.4\shared\general\RenderDebug\src\ProcessRenderDebug.cpp(3282,74): message : to simplify migration, consider the temporary use of /Wv:18 flag with the version of the compiler with which you used to build without warnings

@@ -1,0 +1,52 @@
+﻿  Vcpkg is unable to link because we cannot decide between Release and Debug libraries. Please define the property VcpkgConfiguration to be 'Release' or 'Debug' (currently 'release').
+  BpBroadPhase.cpp
+  BpBroadPhaseMBP.cpp
+  BpBroadPhaseSap.cpp
+  BpBroadPhaseSapAux.cpp
+  BpMBPTasks.cpp
+  BpSAPTasks.cpp
+  BpSimpleAABBManager.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelAABB\src\BpBroadPhaseSap.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\LowLevelAABB\src\BpBroadPhaseSap.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelAABB\src\BpBroadPhaseMBP.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelAABB\src\BpBroadPhaseMBP.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\LowLevelAABB\src\BpBroadPhaseMBP.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelAABB\src\BpBroadPhaseMBP.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\LowLevelAABB\src\BpBroadPhaseMBP.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelAABB\src\BpBroadPhaseSapAux.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelAABB\src\BpBroadPhase.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelAABB\src\BpSAPTasks.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\LowLevelAABB\src\BpSAPTasks.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelAABB\src\BpBroadPhase.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\LowLevelAABB\src\BpBroadPhase.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelAABB\src\BpBroadPhase.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\LowLevelAABB\src\BpBroadPhase.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelAABB\src\BpBroadPhaseSap.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelAABB\src\BpBroadPhaseSapAux.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\LowLevelAABB\src\BpBroadPhaseSapAux.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelAABB\src\BpBroadPhaseSapAux.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\LowLevelAABB\src\BpBroadPhaseSapAux.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelAABB\src\BpBroadPhaseSap.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\LowLevelAABB\src\BpBroadPhaseSap.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelAABB\src\BpSimpleAABBManager.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelAABB\src\BpSimpleAABBManager.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\LowLevelAABB\src\BpSimpleAABBManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelAABB\src\BpSimpleAABBManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\LowLevelAABB\src\BpSimpleAABBManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelAABB\src\BpSAPTasks.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\LowLevelAABB\src\BpSAPTasks.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelAABB\src\BpSAPTasks.cpp)
+LINK : warning LNK4044: unrecognized option '/INCREMENTAL:NO'; ignored
+  LowLevelAABB.vcxproj -> C:\CatalystEngine\libs\PhysX\PhysX_3.4\Lib\vc15win64\LowLevelAABB.lib

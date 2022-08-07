@@ -1,0 +1,33 @@
+﻿  Vcpkg is unable to link because we cannot decide between Release and Debug libraries. Please define the property VcpkgConfiguration to be 'Release' or 'Debug' (currently 'release').
+  CctBoxController.cpp
+  CctCapsuleController.cpp
+  CctCharacterController.cpp
+  CctCharacterControllerCallbacks.cpp
+  CctCharacterControllerManager.cpp
+  CctController.cpp
+  CctObstacleContext.cpp
+  CctSweptBox.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\PhysXCharacterKinematic\src\CctObstacleContext.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\PhysXCharacterKinematic\src\CctCharacterController.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\PhysXCharacterKinematic\src\CctController.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\PhysXCharacterKinematic\src\CctController.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\PhysXCharacterKinematic\src\CctCharacterControllerCallbacks.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\PhysXCharacterKinematic\src\CctCharacterControllerCallbacks.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\PhysXCharacterKinematic\src\CctCharacterControllerManager.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\PhysXCharacterKinematic\src\CctCharacterControllerCallbacks.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\PhysXCharacterKinematic\src\CctCharacterController.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\PhysXCharacterKinematic\src\CctCharacterController.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\PhysXCharacterKinematic\src\CctCharacterControllerManager.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\PhysXCharacterKinematic\src\CctCharacterControllerManager.cpp)
+  CctSweptCapsule.cpp
+  CctSweptVolume.cpp
+PhysXExtensions_static_64.lib(ExtTriangleMeshExt.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MT_StaticRelease' in CctBoxController.obj
+PhysXExtensions_static_64.lib(ExtRigidBodyExt.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MT_StaticRelease' in CctBoxController.obj
+     Creating library ./../../../Lib/vc15win64/PhysX3CharacterKinematic_x64.lib and object ./../../../Lib/vc15win64/PhysX3CharacterKinematic_x64.exp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+PhysXExtensions_static_64.lib(ExtRigidBodyExt.cpp.obj) : error LNK2019: unresolved external symbol __imp__fpclass referenced in function "bool __cdecl physx::PxIsFinite(float)" (?PxIsFinite@physx@@YA_NM@Z)
+.\..\..\..\bin\vc15win64\PhysX3CharacterKinematic_x64.dll : fatal error LNK1120: 1 unresolved externals

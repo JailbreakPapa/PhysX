@@ -1,0 +1,2 @@
+^C:\CATALYSTENGINE\LIBS\PHYSX\APEX_1.4\MODULE\CLOTHING\EMBEDDED\LOWLEVELCLOTH\SRC\AVX\SWSOLVECONSTRAINTS.CPP
+cl.exe /c /Zi /Ox /MT /arch:AVX /Fd"C:\CatalystEngine\libs\PhysX\APEX_1.4\bin\vc15win64-PhysX_3.4\\APEX_ClothingDEBUG_x64.pdb" /Fo./build/x64/APEX_Clothing/debug\/avx/SwSolveConstraints.obj ..\..\module\clothing\embedded\LowLevelCloth\src\avx\SwSolveConstraints.cpp

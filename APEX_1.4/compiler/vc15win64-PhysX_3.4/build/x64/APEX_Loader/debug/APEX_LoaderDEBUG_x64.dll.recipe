@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\CatalystEngine\libs\PhysX\PxShared\bin\vc15win64\PxFoundationDEBUG_x64.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\CatalystEngine\libs\PhysX\PxShared\bin\vc15win64\PxPvdSDKDEBUG_x64.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\CatalystEngine\libs\PhysX\APEX_1.4\bin\vc15win64-PhysX_3.4\APEX_ClothingDEBUG_x64.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\CatalystEngine\libs\PhysX\APEX_1.4\bin\vc15win64-PhysX_3.4\APEX_LegacyDEBUG_x64.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\CatalystEngine\libs\PhysX\APEX_1.4\bin\vc15win64-PhysX_3.4\APEX_DestructibleDEBUG_x64.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\CatalystEngine\libs\PhysX\APEX_1.4\bin\vc15win64-PhysX_3.4\APEX_LoaderDEBUG_x64.dll</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

@@ -1,0 +1,379 @@
+﻿  Vcpkg is unable to link because we cannot decide between Release and Debug libraries. Please define the property VcpkgConfiguration to be 'Release' or 'Debug' (currently 'release').
+  ScParticleBodyInteraction.cpp
+  ScParticlePacketShape.cpp
+  ScParticleSystemCore.cpp
+  ScParticleSystemSim.cpp
+  ScClothCore.cpp
+  ScClothFabricCore.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\particles\ScParticleBodyInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\particles\ScParticleBodyInteraction.cpp)
+  ScClothShape.cpp
+  ScClothSim.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\particles\ScParticleSystemSim.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\particles\ScParticleSystemSim.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\particles\ScParticlePacketShape.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\particles\ScParticlePacketShape.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\particles\ScParticleSystemCore.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\cloth\ScClothShape.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\cloth\ScClothShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\particles\ScParticlePacketShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\particles\ScParticlePacketShape.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\particles\ScParticlePacketShape.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\cloth\ScClothFabricCore.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\cloth\ScClothFabricCore.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\particles\ScParticleBodyInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\particles\ScParticleBodyInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\particles\ScParticleSystemCore.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\particles\ScParticleSystemCore.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\particles\ScParticleBodyInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\cloth\ScClothCore.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\cloth\ScClothCore.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\particles\ScParticleSystemSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\particles\ScParticleSystemSim.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\particles\ScParticleSystemSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\particles\ScParticleSystemCore.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\particles\ScParticleSystemCore.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\cloth\ScClothShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\cloth\ScClothShape.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\cloth\ScClothShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\cloth\ScClothCore.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\cloth\ScClothCore.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\cloth\ScClothSim.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\cloth\ScClothSim.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\cloth\ScClothCore.cpp)
+  ScActorCore.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\cloth\ScClothSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\cloth\ScClothSim.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\cloth\ScClothSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScNPhaseCore.h(363,2): warning C5220: 'physx::Sc::NPhaseCore::mTriggerPairsToDeactivateCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\cloth\ScClothShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScNPhaseCore.h(355): message : see declaration of 'physx::Sc::NPhaseCore::mTriggerPairsToDeactivateCount' (compiling source file ..\..\SimulationController\src\cloth\ScClothShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScNPhaseCore.h(363,2): warning C5220: 'physx::Sc::NPhaseCore::mTriggerPairsToDeactivateCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\particles\ScParticleSystemSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScNPhaseCore.h(355): message : see declaration of 'physx::Sc::NPhaseCore::mTriggerPairsToDeactivateCount' (compiling source file ..\..\SimulationController\src\particles\ScParticleSystemSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\particles\ScParticleSystemCore.cpp(503,9): warning C5219: implicit conversion from 'const physx::PxU32' to 'const physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScNPhaseCore.h(363,2): warning C5220: 'physx::Sc::NPhaseCore::mTriggerPairsToDeactivateCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\particles\ScParticlePacketShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScNPhaseCore.h(355): message : see declaration of 'physx::Sc::NPhaseCore::mTriggerPairsToDeactivateCount' (compiling source file ..\..\SimulationController\src\particles\ScParticlePacketShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScSimStats.h(83,2): warning C5220: 'physx::Sc::SimStats::numTriggerPairs': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\particles\ScParticlePacketShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScSimStats.h(82): message : see declaration of 'physx::Sc::SimStats::numTriggerPairs' (compiling source file ..\..\SimulationController\src\particles\ScParticlePacketShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScNPhaseCore.h(363,2): warning C5220: 'physx::Sc::NPhaseCore::mTriggerPairsToDeactivateCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\particles\ScParticleBodyInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScNPhaseCore.h(355): message : see declaration of 'physx::Sc::NPhaseCore::mTriggerPairsToDeactivateCount' (compiling source file ..\..\SimulationController\src\particles\ScParticleBodyInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\cloth\ScClothCore.cpp(1038,34): warning C5219: implicit conversion from 'physx::PxU32' to 'float', possible loss of data
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScActorCore.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScActorCore.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScNPhaseCore.h(363,2): warning C5220: 'physx::Sc::NPhaseCore::mTriggerPairsToDeactivateCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\cloth\ScClothSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScNPhaseCore.h(355): message : see declaration of 'physx::Sc::NPhaseCore::mTriggerPairsToDeactivateCount' (compiling source file ..\..\SimulationController\src\cloth\ScClothSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScActorCore.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScActorCore.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScActorCore.cpp)
+  ScActorSim.cpp
+  ScArticulationCore.cpp
+  ScArticulationJointCore.cpp
+  ScArticulationJointSim.cpp
+  ScArticulationSim.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScActorSim.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScActorSim.cpp)
+  ScBodyCore.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScArticulationJointSim.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScArticulationJointSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScActorSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScActorSim.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScArticulationJointCore.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScArticulationJointCore.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScActorSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScArticulationJointCore.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScArticulationJointCore.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScArticulationJointCore.cpp)
+  ScBodyCoreKinematic.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScArticulationCore.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScArticulationCore.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScBodyCore.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScBodyCore.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScBodyCore.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScBodyCore.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScBodyCore.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScArticulationJointSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScArticulationJointSim.cpp)
+  ScBodySim.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScArticulationCore.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScArticulationSim.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScArticulationJointSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScArticulationCore.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScArticulationCore.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScArticulationSim.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScArticulationSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScArticulationSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScArticulationSim.cpp)
+  ScConstraintCore.cpp
+  ScConstraintGroupNode.cpp
+  ScConstraintInteraction.cpp
+  ScConstraintProjectionManager.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScConstraintCore.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScConstraintCore.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScConstraintInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScConstraintInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScBodySim.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScBodySim.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScBodySim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScBodySim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScBodySim.cpp)
+  ScConstraintProjectionTree.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScConstraintGroupNode.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScConstraintGroupNode.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScConstraintGroupNode.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScConstraintGroupNode.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScConstraintGroupNode.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScConstraintProjectionManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScConstraintInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScConstraintInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScConstraintProjectionManager.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScConstraintProjectionManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScConstraintProjectionManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScConstraintProjectionManager.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScConstraintInteraction.cpp)
+  ScConstraintSim.cpp
+  ScElementInteractionMarker.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScConstraintProjectionTree.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScConstraintProjectionTree.cpp)
+  ScElementSim.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScConstraintProjectionTree.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScConstraintProjectionTree.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScConstraintProjectionTree.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScConstraintSim.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScConstraintSim.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScElementInteractionMarker.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScElementInteractionMarker.cpp)
+  ScInteraction.cpp
+  ScIterators.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScConstraintSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScConstraintSim.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScConstraintSim.cpp)
+  ScMaterialCore.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScElementInteractionMarker.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScElementInteractionMarker.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScElementSim.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScElementSim.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScElementSim.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScElementInteractionMarker.cpp)
+  ScMetaData.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScInteraction.cpp)
+  ScNPhaseCore.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScElementSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScElementSim.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScIterators.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScIterators.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScIterators.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScIterators.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScIterators.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScNPhaseCore.h(363,2): warning C5220: 'physx::Sc::NPhaseCore::mTriggerPairsToDeactivateCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScElementInteractionMarker.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScNPhaseCore.h(355): message : see declaration of 'physx::Sc::NPhaseCore::mTriggerPairsToDeactivateCount' (compiling source file ..\..\SimulationController\src\ScElementInteractionMarker.cpp)
+  ScPhysics.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScSimStats.h(83,2): warning C5220: 'physx::Sc::SimStats::numTriggerPairs': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScElementSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScSimStats.h(82): message : see declaration of 'physx::Sc::SimStats::numTriggerPairs' (compiling source file ..\..\SimulationController\src\ScElementSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScNPhaseCore.h(363,2): warning C5220: 'physx::Sc::NPhaseCore::mTriggerPairsToDeactivateCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScNPhaseCore.h(355): message : see declaration of 'physx::Sc::NPhaseCore::mTriggerPairsToDeactivateCount' (compiling source file ..\..\SimulationController\src\ScInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScMetaData.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScNPhaseCore.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScNPhaseCore.cpp)
+  ScRigidCore.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScPhysics.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScPhysics.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScNPhaseCore.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScNPhaseCore.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScNPhaseCore.h(363,2): warning C5220: 'physx::Sc::NPhaseCore::mTriggerPairsToDeactivateCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScIterators.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScNPhaseCore.h(355): message : see declaration of 'physx::Sc::NPhaseCore::mTriggerPairsToDeactivateCount' (compiling source file ..\..\SimulationController\src\ScIterators.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScNPhaseCore.cpp)
+  ScRigidSim.cpp
+  ScScene.cpp
+  ScShapeCore.cpp
+  ScShapeInteraction.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScPhysics.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScPhysics.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScRigidSim.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScRigidSim.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScPhysics.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScScene.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScScene.cpp)
+  ScShapeSim.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScNPhaseCore.h(363,2): warning C5220: 'physx::Sc::NPhaseCore::mTriggerPairsToDeactivateCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScNPhaseCore.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScNPhaseCore.h(355): message : see declaration of 'physx::Sc::NPhaseCore::mTriggerPairsToDeactivateCount' (compiling source file ..\..\SimulationController\src\ScNPhaseCore.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScShapeInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScShapeInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScShapeCore.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScShapeCore.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScRigidCore.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScRigidCore.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScRigidCore.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScRigidCore.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScRigidCore.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScSimStats.h(83,2): warning C5220: 'physx::Sc::SimStats::numTriggerPairs': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScNPhaseCore.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScSimStats.h(82): message : see declaration of 'physx::Sc::SimStats::numTriggerPairs' (compiling source file ..\..\SimulationController\src\ScNPhaseCore.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScRigidSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScRigidSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScScene.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScScene.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScRigidSim.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScScene.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScShapeCore.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScShapeCore.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScShapeInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScShapeInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScShapeInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScShapeCore.cpp)
+  ScSimStats.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScShapeSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScSimStats.h(83,2): warning C5220: 'physx::Sc::SimStats::numTriggerPairs': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScSimStats.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScSimStats.h(82): message : see declaration of 'physx::Sc::SimStats::numTriggerPairs' (compiling source file ..\..\SimulationController\src\ScSimStats.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScShapeSim.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScShapeSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScShapeSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScShapeSim.cpp)
+  ScSimulationController.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScSimStats.h(83,2): warning C5220: 'physx::Sc::SimStats::numTriggerPairs': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScScene.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScSimStats.h(82): message : see declaration of 'physx::Sc::SimStats::numTriggerPairs' (compiling source file ..\..\SimulationController\src\ScScene.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScShapeCore.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\SimulationController\src\ScShapeCore.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScNPhaseCore.h(363,2): warning C5220: 'physx::Sc::NPhaseCore::mTriggerPairsToDeactivateCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScShapeInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScNPhaseCore.h(355): message : see declaration of 'physx::Sc::NPhaseCore::mTriggerPairsToDeactivateCount' (compiling source file ..\..\SimulationController\src\ScShapeInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXGpu\include\PxSceneGpu.h(100,1): warning C5204: 'physx::PxSceneGpu': class has virtual functions, but its trivial destructor is not virtual; instances of objects derived from this class may not be destructed correctly (compiling source file ..\..\SimulationController\src\ScScene.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXGpu\include\PxPhysXGpu.h(221,1): warning C5204: 'physx::PxPhysXGpu': class has virtual functions, but its trivial destructor is not virtual; instances of objects derived from this class may not be destructed correctly (compiling source file ..\..\SimulationController\src\ScScene.cpp)
+  ScSqBoundsManager.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScNPhaseCore.h(363,2): warning C5220: 'physx::Sc::NPhaseCore::mTriggerPairsToDeactivateCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScScene.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScNPhaseCore.h(355): message : see declaration of 'physx::Sc::NPhaseCore::mTriggerPairsToDeactivateCount' (compiling source file ..\..\SimulationController\src\ScScene.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScShapeInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\SimulationController\src\ScShapeInteraction.cpp)
+  ScStaticCore.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScShapeInteraction.cpp(232,58): warning C5219: implicit conversion from 'physx::PxU32' to 'physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScSimulationController.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScNPhaseCore.h(363,2): warning C5220: 'physx::Sc::NPhaseCore::mTriggerPairsToDeactivateCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScShapeSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScNPhaseCore.h(355): message : see declaration of 'physx::Sc::NPhaseCore::mTriggerPairsToDeactivateCount' (compiling source file ..\..\SimulationController\src\ScShapeSim.cpp)
+  ScStaticSim.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScScene.cpp(5541,34): warning C5219: implicit conversion from 'const physx::PxU32' to 'float', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScSimStats.h(83,2): warning C5220: 'physx::Sc::SimStats::numTriggerPairs': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScShapeSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScSimStats.h(82): message : see declaration of 'physx::Sc::SimStats::numTriggerPairs' (compiling source file ..\..\SimulationController\src\ScShapeSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScShapeSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\SimulationController\src\ScShapeSim.cpp)
+  ScTriggerInteraction.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScSqBoundsManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXGpu\include\PxSceneGpu.h(100,1): warning C5204: 'physx::PxSceneGpu': class has virtual functions, but its trivial destructor is not virtual; instances of objects derived from this class may not be destructed correctly (compiling source file ..\..\SimulationController\src\ScShapeSim.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScTriggerInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScTriggerInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScSqBoundsManager.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScSqBoundsManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScSqBoundsManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScSqBoundsManager.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScStaticCore.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScTriggerInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScTriggerInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScStaticSim.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\SimulationController\src\ScTriggerInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScStaticCore.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScStaticCore.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScStaticCore.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScStaticCore.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScStaticSim.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScStaticSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScStaticSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\SimulationController\src\ScStaticSim.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScNPhaseCore.h(363,2): warning C5220: 'physx::Sc::NPhaseCore::mTriggerPairsToDeactivateCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\SimulationController\src\ScTriggerInteraction.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\SimulationController\src\ScNPhaseCore.h(355): message : see declaration of 'physx::Sc::NPhaseCore::mTriggerPairsToDeactivateCount' (compiling source file ..\..\SimulationController\src\ScTriggerInteraction.cpp)
+LINK : warning LNK4044: unrecognized option '/INCREMENTAL:NO'; ignored
+  SimulationController.vcxproj -> C:\CatalystEngine\libs\PhysX\PhysX_3.4\Lib\vc15win64\SimulationController.lib

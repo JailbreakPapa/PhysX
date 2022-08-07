@@ -1,0 +1,4 @@
+﻿  Vcpkg is unable to link because we cannot decide between Release and Debug libraries. Please define the property VcpkgConfiguration to be 'Release' or 'Debug' (currently 'profile').
+  PsFastXml.cpp
+LINK : warning LNK4044: unrecognized option '/INCREMENTAL:NO'; ignored
+  PsFastXml.vcxproj -> C:\CatalystEngine\libs\PhysX\PxShared\lib\vc15win64\PsFastXmlPROFILE_x64.lib

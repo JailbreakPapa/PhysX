@@ -1,0 +1,148 @@
+﻿  Building ..\..\LowLevelCloth\src\avx\SwSolveConstraints.cpp
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.32.31332 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  SwSolveConstraints.cpp
+  Vcpkg is unable to link because we cannot decide between Release and Debug libraries. Please define the property VcpkgConfiguration to be 'Release' or 'Debug' (currently 'debug').
+  Allocator.cpp
+  Factory.cpp
+  PhaseConfig.cpp
+  SwCloth.cpp
+  SwClothData.cpp
+  SwCollision.cpp
+  SwFabric.cpp
+  SwFactory.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelCloth\src\PhaseConfig.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\MovingAverage.h(100,13): warning C5219: implicit conversion from 'const uint32_t' to 'const float', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwCloth.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\MovingAverage.h(119,20): warning C5219: implicit conversion from 'uint32_t' to 'float', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwCloth.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\MovingAverage.h(119,35): warning C5219: implicit conversion from 'uint32_t' to 'float', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwCloth.cpp)
+  SwInterCollision.cpp
+  SwSelfCollision.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\MovingAverage.h(100,13): warning C5219: implicit conversion from 'const uint32_t' to 'const float', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwClothData.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\MovingAverage.h(119,20): warning C5219: implicit conversion from 'uint32_t' to 'float', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwClothData.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\MovingAverage.h(119,35): warning C5219: implicit conversion from 'uint32_t' to 'float', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwClothData.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwCloth.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\MovingAverage.h(100,13): warning C5219: implicit conversion from 'const uint32_t' to 'const float', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwFactory.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\MovingAverage.h(119,20): warning C5219: implicit conversion from 'uint32_t' to 'float', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwFactory.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\MovingAverage.h(119,35): warning C5219: implicit conversion from 'uint32_t' to 'float', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwFactory.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\MovingAverage.h(100,13): warning C5219: implicit conversion from 'const uint32_t' to 'const float', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwCollision.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\MovingAverage.h(119,20): warning C5219: implicit conversion from 'uint32_t' to 'float', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwCollision.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\MovingAverage.h(119,35): warning C5219: implicit conversion from 'uint32_t' to 'float', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwCollision.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelCloth\src\SwFactory.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\LowLevelCloth\src\SwFactory.cpp)
+  SwSolver.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwCollision.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\MovingAverage.h(100,13): warning C5219: implicit conversion from 'const uint32_t' to 'const float', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwSelfCollision.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\MovingAverage.h(119,20): warning C5219: implicit conversion from 'uint32_t' to 'float', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwSelfCollision.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\MovingAverage.h(119,35): warning C5219: implicit conversion from 'uint32_t' to 'float', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwSelfCollision.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwClothData.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\IterationState.h(167,16): warning C5219: implicit conversion from 'const uint32_t' to 'const float', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwCollision.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\IterationState.h(166): message : while compiling class template member function 'float physx::cloth::IterationState<Simd4f>::getPreviousAlpha(void) const'
+          with
+          [
+              Simd4f=Simd4f
+          ] (compiling source file ..\..\LowLevelCloth\src\SwCollision.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\IterationState.h(161): message : see reference to function template instantiation 'float physx::cloth::IterationState<Simd4f>::getPreviousAlpha(void) const' being compiled
+          with
+          [
+              Simd4f=Simd4f
+          ] (compiling source file ..\..\LowLevelCloth\src\SwCollision.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\IterationState.h(160): message : while compiling class template member function 'float physx::cloth::IterationState<Simd4f>::getCurrentAlpha(void) const'
+          with
+          [
+              Simd4f=Simd4f
+          ] (compiling source file ..\..\LowLevelCloth\src\SwCollision.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\SwCollision.cpp(293): message : see reference to function template instantiation 'float physx::cloth::IterationState<Simd4f>::getCurrentAlpha(void) const' being compiled
+          with
+          [
+              Simd4f=Simd4f
+          ]
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\SwCollision.cpp(285): message : see reference to class template instantiation 'physx::cloth::IterationState<Simd4f>' being compiled
+          with
+          [
+              Simd4f=Simd4f
+          ]
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\SwCollision.cpp(274): message : while compiling class template member function 'void physx::cloth::SwCollision<Simd4f>::operator ()(const physx::cloth::IterationState<Simd4f> &)'
+          with
+          [
+              Simd4f=Simd4f
+          ]
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\SwCollision.h(141): message : see reference to class template instantiation 'physx::cloth::SwCollision<Simd4f>' being compiled (compiling source file ..\..\LowLevelCloth\src\SwCollision.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelCloth\src\SwFactory.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\LowLevelCloth\src\SwFactory.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwFactory.cpp)
+  SwSolverKernel.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\SwInterCollision.cpp(238,33): warning C5246: 'mLower': the initialization of a subobject should be wrapped in braces
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\SwInterCollision.cpp(411): message : see reference to function template instantiation 'uint32_t `anonymous-namespace'::calculatePotentialColliders<Simd4f>(const physx::cloth::SwInterCollisionData *,const physx::cloth::SwInterCollisionData *,const Simd4f &,uint16_t *,uint32_t *,physx::cloth::BoundingBox<Simd4f> &,uint32_t *,physx::cloth::InterCollisionFilter,physx::cloth::SwKernelAllocator &)' being compiled
+          with
+          [
+              Simd4f=Simd4f
+          ]
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\SwInterCollision.cpp(393): message : while compiling class template member function 'void physx::cloth::SwInterCollision<Simd4f>::operator ()(void)'
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\SwInterCollision.h(145): message : see reference to class template instantiation 'physx::cloth::SwInterCollision<Simd4f>' being compiled (compiling source file ..\..\LowLevelCloth\src\SwInterCollision.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\SwInterCollision.cpp(239,30): warning C5246: 'mUpper': the initialization of a subobject should be wrapped in braces
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\SwInterCollision.cpp(304,34): warning C5246: 'mLower': the initialization of a subobject should be wrapped in braces
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\SwInterCollision.cpp(305,31): warning C5246: 'mUpper': the initialization of a subobject should be wrapped in braces
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\SwInterCollision.cpp(327,33): warning C5246: 'xform': the initialization of a subobject should be wrapped in braces
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\SwInterCollision.cpp(328,30): warning C5246: 'xform': the initialization of a subobject should be wrapped in braces
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\SwInterCollision.cpp(329,30): warning C5246: 'xform': the initialization of a subobject should be wrapped in braces
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\SwInterCollision.cpp(330,30): warning C5246: 'xform': the initialization of a subobject should be wrapped in braces
+  TripletScheduler.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelCloth\src\SwSolver.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\LowLevelCloth\src\SwSolver.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwSolverKernel.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelCloth\src\SwSolver.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\LowLevelCloth\src\SwSolver.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\MovingAverage.h(100,13): warning C5219: implicit conversion from 'const uint32_t' to 'const float', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwSolver.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\MovingAverage.h(119,20): warning C5219: implicit conversion from 'uint32_t' to 'float', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwSolver.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\MovingAverage.h(119,35): warning C5219: implicit conversion from 'uint32_t' to 'float', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwSolver.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwSolver.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\MovingAverage.h(100,13): warning C5219: implicit conversion from 'const uint32_t' to 'const float', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwSolverKernel.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\MovingAverage.h(119,20): warning C5219: implicit conversion from 'uint32_t' to 'float', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwSolverKernel.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\MovingAverage.h(119,35): warning C5219: implicit conversion from 'uint32_t' to 'float', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwSolverKernel.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\SwSolverKernel.cpp(505,45): warning C5219: implicit conversion from 'uint32_t' to 'float', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\SwSolverKernel.cpp(486): message : while compiling class template member function 'void physx::cloth::SwSolverKernel<Simd4f>::constrainTether(void)'
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\SwSolverKernel.h(87): message : see reference to class template instantiation 'physx::cloth::SwSolverKernel<Simd4f>' being compiled (compiling source file ..\..\LowLevelCloth\src\SwSolverKernel.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\SwSolverKernel.cpp(505,100): warning C5219: implicit conversion from 'uint32_t' to 'float', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\IterationState.h(271,38): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwSolverKernel.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\SwSolverKernel.cpp(418): message : see reference to function template instantiation 'physx::cloth::IterationState<Simd4f> physx::cloth::IterationStateFactory::create<Simd4f,physx::cloth::SwCloth>(const MyCloth &) const' being compiled
+          with
+          [
+              Simd4f=Simd4f,
+              MyCloth=physx::cloth::SwCloth
+          ]
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\SwSolverKernel.cpp(413): message : while compiling class template member function 'physx::cloth::SwSolverKernel<Simd4f>::SwSolverKernel(const physx::cloth::SwCloth &,physx::cloth::SwClothData &,physx::cloth::SwKernelAllocator &,physx::cloth::IterationStateFactory &)'
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\IterationState.h(332,48): warning C5219: implicit conversion from 'int' to 'const float', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwSolverKernel.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\IterationState.h(167,16): warning C5219: implicit conversion from 'const uint32_t' to 'const float', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwSolverKernel.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\IterationState.h(166): message : while compiling class template member function 'float physx::cloth::IterationState<Simd4f>::getPreviousAlpha(void) const'
+          with
+          [
+              Simd4f=Simd4f
+          ] (compiling source file ..\..\LowLevelCloth\src\SwSolverKernel.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\IterationState.h(161): message : see reference to function template instantiation 'float physx::cloth::IterationState<Simd4f>::getPreviousAlpha(void) const' being compiled
+          with
+          [
+              Simd4f=Simd4f
+          ] (compiling source file ..\..\LowLevelCloth\src\SwSolverKernel.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\IterationState.h(383): message : while compiling class template member function 'void physx::cloth::IterationState<Simd4f>::update(void)'
+          with
+          [
+              Simd4f=Simd4f
+          ] (compiling source file ..\..\LowLevelCloth\src\SwSolverKernel.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\SwSolverKernel.cpp(771): message : see reference to function template instantiation 'void physx::cloth::IterationState<Simd4f>::update(void)' being compiled
+          with
+          [
+              Simd4f=Simd4f
+          ]
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\SwSolverKernel.cpp(625): message : while compiling class template member function 'void physx::cloth::SwSolverKernel<Simd4f>::constrainMotion(void)'
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\IterationState.h(174,29): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\LowLevelCloth\src\SwSolver.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelCloth\src\SwSolver.cpp(248): message : see reference to function template instantiation 'physx::cloth::IterationStateFactory::IterationStateFactory<physx::cloth::SwCloth>(MyCloth &,float)' being compiled
+          with
+          [
+              MyCloth=physx::cloth::SwCloth
+          ]
+  LowLevelCloth.vcxproj -> C:\CatalystEngine\libs\PhysX\PhysX_3.4\Lib\vc15win64\LowLevelClothDEBUG.lib

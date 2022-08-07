@@ -1,0 +1,33 @@
+﻿  Vcpkg is unable to link because we cannot decide between Release and Debug libraries. Please define the property VcpkgConfiguration to be 'Release' or 'Debug' (currently 'debug').
+cl : command line warning D9025: overriding '/fp:precise' with '/fp:fast'
+cl : command line warning D9002: ignoring unknown option '-/WX'
+cl : command line warning D9025: overriding '/fp:precise' with '/fp:fast'
+cl : command line warning D9002: ignoring unknown option '-/WX'
+  BinaryHelper.cpp
+cl : command line warning D9025: overriding '/fp:precise' with '/fp:fast'
+cl : command line warning D9002: ignoring unknown option '-/WX'
+  BinSerializer.cpp
+cl : command line warning D9025: overriding '/fp:precise' with '/fp:fast'
+cl : command line warning D9002: ignoring unknown option '-/WX'
+  NvParameterized.cpp
+cl : command line warning D9025: overriding '/fp:precise' with '/fp:fast'
+cl : command line warning D9002: ignoring unknown option '-/WX'
+  NvParameterizedTraits.cpp
+cl : command line warning D9025: overriding '/fp:precise' with '/fp:fast'
+cl : command line warning D9002: ignoring unknown option '-/WX'
+  NvSerializer.cpp
+cl : command line warning D9025: overriding '/fp:precise' with '/fp:fast'
+cl : command line warning D9002: ignoring unknown option '-/WX'
+  NvTraits.cpp
+cl : command line warning D9025: overriding '/fp:precise' with '/fp:fast'
+cl : command line warning D9002: ignoring unknown option '-/WX'
+  PlatformABI.cpp
+cl : command line warning D9025: overriding '/fp:precise' with '/fp:fast'
+cl : command line warning D9002: ignoring unknown option '-/WX'
+  PlatformInputStream.cpp
+  PlatformOutputStream.cpp
+  SerializerCommon.cpp
+  XmlDeserializer.cpp
+  XmlSerializer.cpp
+LINK : warning LNK4044: unrecognized option '/INCREMENTAL:NO'; ignored
+  NvParameterized.vcxproj -> C:\CatalystEngine\libs\PhysX\APEX_1.4\NvParameterized\lib\vc15win64\NvParameterizedDEBUG.lib

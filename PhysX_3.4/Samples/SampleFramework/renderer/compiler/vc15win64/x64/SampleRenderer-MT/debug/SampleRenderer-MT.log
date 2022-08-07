@@ -1,0 +1,570 @@
+﻿  Vcpkg is unable to link because we cannot decide between Release and Debug libraries. Please define the property VcpkgConfiguration to be 'Release' or 'Debug' (currently 'debug').
+  OGLRenderer.cpp
+  OGLRendererDirectionalLight.cpp
+  OGLRendererIndexBuffer.cpp
+  OGLRendererInstanceBuffer.cpp
+  OGLRendererMaterial.cpp
+  OGLRendererMesh.cpp
+  OGLRendererSpotLight.cpp
+  OGLRendererTexture2D.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\ogl\OGLRendererInstanceBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\ogl\OGLRendererInstanceBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\ogl\OGLRendererMaterial.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\ogl\OGLRendererMaterial.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\ogl\OGLRendererMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\ogl\OGLRendererMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\ogl\OGLRendererDirectionalLight.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\ogl\OGLRendererDirectionalLight.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\ogl\OGLRendererSpotLight.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\ogl\OGLRendererSpotLight.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\ogl\OGLRendererIndexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\ogl\OGLRendererIndexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\ogl\OGLRenderer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\ogl\OGLRenderer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\ogl\OGLRendererTexture2D.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\ogl\OGLRendererTexture2D.cpp)
+  OGLRendererVertexBuffer.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\ogl\OGLRendererVertexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\ogl\OGLRendererVertexBuffer.cpp)
+  D3D9Renderer.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\d3d9\D3D9Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\d3d9\D3D9Renderer.cpp)
+  D3D9RendererDirectionalLight.cpp
+  D3D9RendererIndexBuffer.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\ogl\OGLRendererVertexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\ogl\OGLRendererVertexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\ogl\OGLRendererVertexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\ogl\OGLRendererVertexBuffer.cpp)
+  D3D9RendererInstanceBuffer.cpp
+  D3D9RendererMaterial.cpp
+  D3D9RendererMesh.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\d3d9\D3D9RendererDirectionalLight.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\d3d9\D3D9RendererDirectionalLight.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\d3d9\D3D9RendererIndexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\d3d9\D3D9RendererIndexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\d3d9\D3D9RendererInstanceBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\d3d9\D3D9RendererInstanceBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\d3d9\D3D9RendererMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\d3d9\D3D9RendererMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\d3d9\D3D9RendererMaterial.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\d3d9\D3D9RendererMaterial.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererDirectionalLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererDirectionalLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererDirectionalLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererDirectionalLight.cpp)
+  D3D9RendererSpotLight.cpp
+  D3D9RendererTarget.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererIndexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererIndexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererIndexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererIndexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\d3d9\D3D9RendererSpotLight.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\d3d9\D3D9RendererSpotLight.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\d3d9\D3D9RendererTarget.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\d3d9\D3D9RendererTarget.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d9\D3D9Renderer.h(45,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file ..\..\src\d3d9\D3D9RendererIndexBuffer.cpp)
+  D3D9RendererTexture2D.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d9\D3D9Renderer.h(45,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file ..\..\src\d3d9\D3D9Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d9\D3D9Renderer.h(45,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file ..\..\src\d3d9\D3D9RendererDirectionalLight.cpp)
+  D3D9RendererVertexBuffer.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererInstanceBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererInstanceBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererInstanceBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererInstanceBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\d3d9\D3D9RendererTexture2D.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\d3d9\D3D9RendererTexture2D.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererMaterial.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererMaterial.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererMaterial.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererMaterial.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererSpotLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererSpotLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererSpotLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererSpotLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d9\D3D9Renderer.h(45,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file ..\..\src\d3d9\D3D9RendererInstanceBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d9\D3D9Renderer.h(45,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file ..\..\src\d3d9\D3D9RendererMaterial.cpp)
+  D3D9WPFRenderer.cpp
+  D3D11Renderer.cpp
+  D3D11RendererDirectionalLight.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererTarget.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererTarget.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererTarget.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererTarget.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\d3d9\D3D9WPFRenderer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\d3d9\D3D9WPFRenderer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\d3d9\D3D9RendererVertexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\d3d9\D3D9RendererVertexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\d3d11\D3D11RendererDirectionalLight.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\d3d11\D3D11RendererDirectionalLight.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\d3d11\D3D11Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\d3d11\D3D11Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d9\D3D9Renderer.h(45,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file ..\..\src\d3d9\D3D9RendererMesh.cpp)
+  D3D11RendererIndexBuffer.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d9\D3D9Renderer.h(45,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file ..\..\src\d3d9\D3D9RendererSpotLight.cpp)
+  D3D11RendererInstanceBuffer.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererTexture2D.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererTexture2D.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererTexture2D.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererTexture2D.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\d3d11\D3D11RendererIndexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\d3d11\D3D11RendererIndexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\d3d11\D3D11RendererInstanceBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\d3d11\D3D11RendererInstanceBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d9\D3D9Renderer.h(45,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file ..\..\src\d3d9\D3D9RendererTarget.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererDirectionalLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererDirectionalLight.cpp)
+  D3D11RendererMaterial.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererDirectionalLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererDirectionalLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9WPFRenderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9WPFRenderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9WPFRenderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9WPFRenderer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\d3d11\D3D11RendererMaterial.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\d3d11\D3D11RendererMaterial.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererVertexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererVertexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererVertexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d9\D3D9RendererVertexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d9\D3D9Renderer.h(45,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file ..\..\src\d3d9\D3D9RendererTexture2D.cpp)
+  D3D11RendererMesh.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\d3d11\D3D11RendererMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\d3d11\D3D11RendererMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d9\D3D9Renderer.h(45,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file ..\..\src\d3d9\D3D9WPFRenderer.cpp)
+  D3D11RendererSpotLight.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\d3d11\D3D11RendererSpotLight.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\d3d11\D3D11RendererSpotLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererIndexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererIndexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererIndexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererIndexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d9\D3D9Renderer.h(45,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file ..\..\src\d3d9\D3D9RendererVertexBuffer.cpp)
+  D3D11RendererTarget.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererInstanceBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererInstanceBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererInstanceBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererInstanceBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\d3d11\D3D11RendererTarget.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\d3d11\D3D11RendererTarget.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d11\D3D11RendererResourceManager.h(68,13): error C2039: 'type_info': is not a member of 'std' (compiling source file ..\..\src\d3d11\D3D11Renderer.cpp)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\queue(22): message : see declaration of 'std' (compiling source file ..\..\src\d3d11\D3D11Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d11\D3D11RendererResourceManager.h(102,2): warning C5204: 'SampleRenderer::Any::Visitor': class has virtual functions, but its trivial destructor is not virtual; instances of objects derived from this class may not be destructed correctly (compiling source file ..\..\src\d3d11\D3D11Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d11\D3D11RendererResourceManager.h(143,22): error C2039: 'type_info': is not a member of 'std' (compiling source file ..\..\src\d3d11\D3D11Renderer.cpp)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\queue(22): message : see declaration of 'std' (compiling source file ..\..\src\d3d11\D3D11Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d11\D3D11RendererResourceManager.h(143,31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int (compiling source file ..\..\src\d3d11\D3D11Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d11\D3D11RendererResourceManager.h(143,31): error C2143: syntax error: missing ';' before '&' (compiling source file ..\..\src\d3d11\D3D11Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d11\D3D11RendererResourceManager.h(143,31): error C2433: 'SampleRenderer::Any::Proxy::type_info': 'virtual' not permitted on data declarations (compiling source file ..\..\src\d3d11\D3D11Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d11\D3D11RendererResourceManager.h(143,54): error C2238: unexpected token(s) preceding ';' (compiling source file ..\..\src\d3d11\D3D11Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d11\D3D11RendererResourceManager.h(150,2): warning C5204: 'SampleRenderer::Any::Proxy': class has virtual functions, but its trivial destructor is not virtual; instances of objects derived from this class may not be destructed correctly (compiling source file ..\..\src\d3d11\D3D11Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d11\D3D11RendererResourceManager.h(156,1): error C2327: 'SampleRenderer::Any::Proxy::type_info': is not a type name, static, or enumerator (compiling source file ..\..\src\d3d11\D3D11Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d11\D3D11RendererResourceManager.h(167): message : see reference to class template instantiation 'SampleRenderer::Any::ProxyImpl<value_type>' being compiled (compiling source file ..\..\src\d3d11\D3D11Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d11\D3D11RendererResourceManager.h(156,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int (compiling source file ..\..\src\d3d11\D3D11Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d11\D3D11RendererResourceManager.h(156,32): error C2143: syntax error: missing ';' before '&' (compiling source file ..\..\src\d3d11\D3D11Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d11\D3D11RendererResourceManager.h(156,1): error C2433: 'SampleRenderer::Any::ProxyImpl<value_type>::type_info': 'virtual' not permitted on data declarations (compiling source file ..\..\src\d3d11\D3D11Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d11\D3D11RendererResourceManager.h(156,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body (compiling source file ..\..\src\d3d11\D3D11Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d11\D3D11RendererResourceManager.h(52,11): warning C5205: delete of an abstract class 'SampleRenderer::Any::Proxy' that has a non-virtual destructor results in undefined behavior (compiling source file ..\..\src\d3d11\D3D11Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d11\D3D11RendererResourceManager.h(140): message : see declaration of 'SampleRenderer::Any::Proxy' (compiling source file ..\..\src\d3d11\D3D11Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d11\D3D11RendererResourceManager.h(68,68): error C2064: term does not evaluate to a function taking 0 arguments (compiling source file ..\..\src\d3d11\D3D11Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererMaterial.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererMaterial.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererMaterial.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererMaterial.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d11\D3D11RendererUtils.h(39,10): fatal error C1083: Cannot open include file: 'd3dx11tex.h': No such file or directory (compiling source file ..\..\src\d3d11\D3D11Renderer.cpp)
+  D3D11RendererTexture2D.cpp
+  D3D11RendererTexture3D.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererSpotLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererSpotLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererSpotLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererSpotLight.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\d3d11\D3D11RendererTexture3D.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\d3d11\D3D11RendererTexture3D.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\d3d11\D3D11RendererTexture2D.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\d3d11\D3D11RendererTexture2D.cpp)
+  D3D11RendererUtils.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererTarget.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererTarget.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererTarget.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererTarget.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d11\D3D11RendererUtils.h(39,10): fatal error C1083: Cannot open include file: 'd3dx11tex.h': No such file or directory (compiling source file ..\..\src\d3d11\D3D11RendererMaterial.cpp)
+  D3D11RendererVariableManager.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\d3d11\D3D11RendererUtils.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\d3d11\D3D11RendererUtils.cpp)
+  D3D11RendererVertexBuffer.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\d3d11\D3D11RendererVariableManager.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\d3d11\D3D11RendererVariableManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererTexture2D.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererTexture2D.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererTexture2D.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererTexture2D.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererTexture3D.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererTexture3D.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererTexture3D.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererTexture3D.cpp)
+  NULLRenderer.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d11\D3D11RendererUtils.h(39,10): fatal error C1083: Cannot open include file: 'd3dx11tex.h': No such file or directory (compiling source file ..\..\src\d3d11\D3D11RendererMesh.cpp)
+  NULLRendererDirectionalLight.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\d3d11\D3D11RendererVertexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\d3d11\D3D11RendererVertexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\null\NULLRenderer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\null\NULLRenderer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\null\NULLRendererDirectionalLight.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\null\NULLRendererDirectionalLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererUtils.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererUtils.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererUtils.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererUtils.cpp)
+  NULLRendererIndexBuffer.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererVariableManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererVariableManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererVariableManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererVariableManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d11\D3D11RendererUtils.h(39,10): fatal error C1083: Cannot open include file: 'd3dx11tex.h': No such file or directory (compiling source file ..\..\src\d3d11\D3D11RendererUtils.cpp)
+  NULLRendererInstanceBuffer.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\null\NULLRendererIndexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\null\NULLRendererIndexBuffer.cpp)
+  NULLRendererMaterial.cpp
+  NULLRendererMesh.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\null\NULLRendererDirectionalLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\null\NULLRendererDirectionalLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\null\NULLRendererDirectionalLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\null\NULLRendererDirectionalLight.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\null\NULLRendererInstanceBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\null\NULLRendererInstanceBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\null\NULLRendererMaterial.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\null\NULLRendererMaterial.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\null\NULLRendererMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\null\NULLRendererMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererVertexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererVertexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererVertexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\d3d11\D3D11RendererVertexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\null\NULLRenderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\null\NULLRenderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\null\NULLRenderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\null\NULLRenderer.cpp)
+  NULLRendererSpotLight.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d11\D3D11RendererUtils.h(39,10): fatal error C1083: Cannot open include file: 'd3dx11tex.h': No such file or directory (compiling source file ..\..\src\d3d11\D3D11RendererVariableManager.cpp)
+  NULLRendererTexture2D.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\null\NULLRendererSpotLight.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\null\NULLRendererSpotLight.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\null\NULLRendererTexture2D.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\null\NULLRendererTexture2D.cpp)
+  NULLRendererVertexBuffer.cpp
+  Renderer.cpp
+  RendererBoxShape.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\null\NULLRendererVertexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\null\NULLRendererVertexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererBoxShape.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererBoxShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\null\NULLRendererSpotLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\null\NULLRendererSpotLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\null\NULLRendererSpotLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\null\NULLRendererSpotLight.cpp)
+  RendererCapsuleShape.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererBoxShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererBoxShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererBoxShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererBoxShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\null\NULLRendererVertexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\null\NULLRendererVertexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\null\NULLRendererVertexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\null\NULLRendererVertexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\null\NULLRendererMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\null\NULLRendererMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\null\NULLRendererMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\null\NULLRendererMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\null\NULLRendererMaterial.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\null\NULLRendererMaterial.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\null\NULLRendererMaterial.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\null\NULLRendererMaterial.cpp)
+  RendererClothShape.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\d3d9\D3D9Renderer.h(45,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file ..\..\src\Renderer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererCapsuleShape.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererCapsuleShape.cpp)
+  RendererColor.cpp
+  RendererDesc.cpp
+  RendererDirectionalLight.cpp
+  RendererDirectionalLightDesc.cpp
+  RendererGridShape.cpp
+  RendererIndexBuffer.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererClothShape.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererClothShape.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererColor.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererColor.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererDirectionalLight.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererDirectionalLight.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererDirectionalLightDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererDirectionalLightDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererIndexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererIndexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererGridShape.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererGridShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererCapsuleShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererCapsuleShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererCapsuleShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererCapsuleShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\RendererCapsuleShape.cpp(76,39): warning C5219: implicit conversion from 'int' to 'float', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\RendererCapsuleShape.cpp(127,39): warning C5219: implicit conversion from 'int' to 'float', possible loss of data
+  RendererIndexBufferDesc.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererIndexBufferDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererIndexBufferDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererDirectionalLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererDirectionalLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererDirectionalLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererDirectionalLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererColor.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererColor.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererColor.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererColor.cpp)
+  RendererInstanceBuffer.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererDirectionalLightDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererDirectionalLightDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererDirectionalLightDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererDirectionalLightDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererGridShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererGridShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererGridShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererGridShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererClothShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererClothShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererClothShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererClothShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\src\RendererGridShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\RendererGridShape.cpp(119,21): warning C5219: implicit conversion from 'physx::PxU32' to 'float', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\RendererGridShape.cpp(133,68): warning C5219: implicit conversion from 'physx::PxU32' to 'float', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\RendererGridShape.cpp(134,68): warning C5219: implicit conversion from 'physx::PxU32' to 'float', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\RendererGridShape.cpp(135,68): warning C5219: implicit conversion from 'physx::PxU32' to 'float', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\RendererGridShape.cpp(136,68): warning C5219: implicit conversion from 'physx::PxU32' to 'float', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\RendererGridShape.cpp(137,54): warning C5219: implicit conversion from 'physx::PxU32' to 'float', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\RendererGridShape.cpp(138,54): warning C5219: implicit conversion from 'physx::PxU32' to 'float', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\RendererGridShape.cpp(139,54): warning C5219: implicit conversion from 'physx::PxU32' to 'float', possible loss of data
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\src\RendererGridShape.cpp(140,54): warning C5219: implicit conversion from 'physx::PxU32' to 'float', possible loss of data
+  RendererInstanceBufferDesc.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererInstanceBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererInstanceBuffer.cpp)
+  RendererLight.cpp
+  RendererLightDesc.cpp
+  RendererMaterial.cpp
+  RendererMaterialDesc.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererLight.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererLight.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererMaterial.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererMaterial.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererInstanceBufferDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererInstanceBufferDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererMaterialDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererMaterialDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererLightDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererLightDesc.cpp)
+  RendererMaterialInstance.cpp
+  RendererMesh.cpp
+  RendererMeshContext.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererMaterialInstance.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererMaterialInstance.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererMeshContext.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererMeshContext.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererLightDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererLightDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererLightDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererLightDesc.cpp)
+  RendererMeshDesc.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererMaterial.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererMaterial.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererMaterial.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererMaterial.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererMeshDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererMeshDesc.cpp)
+  RendererMeshShape.cpp
+  RendererParticleSystemShape.cpp
+  RendererProjection.cpp
+  RendererShape.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererMeshShape.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererMeshShape.cpp)
+  RendererSimpleParticleSystemShape.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererProjection.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererProjection.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererShape.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererShape.cpp)
+  RendererSpotLight.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererSpotLight.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererSpotLight.cpp)
+  RendererSpotLightDesc.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererSimpleParticleSystemShape.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererSimpleParticleSystemShape.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererParticleSystemShape.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererParticleSystemShape.cpp)
+  RendererTarget.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererSpotLightDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererSpotLightDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererSpotLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererSpotLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererSpotLight.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererSpotLight.cpp)
+  RendererTargetDesc.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererMeshShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererMeshShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererMeshShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererMeshShape.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererTargetDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererTargetDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererSimpleParticleSystemShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererSimpleParticleSystemShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererSimpleParticleSystemShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererSimpleParticleSystemShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererParticleSystemShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererParticleSystemShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererParticleSystemShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererParticleSystemShape.cpp)
+  RendererTerrainShape.cpp
+  RendererTexture.cpp
+  RendererTexture2D.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererSpotLightDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererSpotLightDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererSpotLightDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererSpotLightDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererTerrainShape.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererTerrainShape.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererTexture.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererTexture.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererTexture2D.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererTexture2D.cpp)
+  RendererTexture2DDesc.cpp
+  RendererTextureDesc.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererTexture2DDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererTexture2DDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererTextureDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererTextureDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererTerrainShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererTerrainShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererTerrainShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererTerrainShape.cpp)
+  RendererVertexBuffer.cpp
+  RendererVertexBufferDesc.cpp
+  RendererWindow.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererVertexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererVertexBuffer.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererVertexBufferDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererVertexBufferDesc.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\src\RendererWindow.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\src\RendererWindow.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(59,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererWindow.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(60,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererWindow.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(61,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererWindow.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Samples\SampleFramework\renderer\include\RendererColor.h(62,27): warning C5219: implicit conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\src\RendererWindow.cpp)

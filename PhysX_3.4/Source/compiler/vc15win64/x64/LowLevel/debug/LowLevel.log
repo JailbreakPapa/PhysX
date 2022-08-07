@@ -1,0 +1,112 @@
+﻿  Vcpkg is unable to link because we cannot decide between Release and Debug libraries. Please define the property VcpkgConfiguration to be 'Release' or 'Debug' (currently 'debug').
+  px_globals.cpp
+  PxsCCD.cpp
+  PxsContactManager.cpp
+  PxsContext.cpp
+  PxsDefaultMemoryManager.cpp
+  PxsIslandSim.cpp
+  PxsMaterialCombiner.cpp
+  PxsNphaseImplementationContext.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevel\API\src\px_globals.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\LowLevel\API\src\px_globals.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevel\API\src\px_globals.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevel\software\src\PxsNphaseImplementationContext.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\LowLevel\software\src\PxsNphaseImplementationContext.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevel\software\src\PxsIslandSim.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevel\software\src\PxsCCD.cpp)
+  PxsSimpleIslandManager.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevel\software\src\PxsContactManager.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevel\software\src\PxsNphaseImplementationContext.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevel\software\src\PxsCCD.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\LowLevel\software\src\PxsCCD.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevel\software\src\PxsMaterialCombiner.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevel\software\src\PxsContactManager.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\LowLevel\software\src\PxsContactManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevel\API\src\px_globals.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\LowLevel\API\src\px_globals.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevel\software\src\PxsContext.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXGpu\include\PxSceneGpu.h(100,1): warning C5204: 'physx::PxSceneGpu': class has virtual functions, but its trivial destructor is not virtual; instances of objects derived from this class may not be destructed correctly (compiling source file ..\..\LowLevel\API\src\px_globals.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXGpu\include\PxPhysXGpu.h(221,1): warning C5204: 'physx::PxPhysXGpu': class has virtual functions, but its trivial destructor is not virtual; instances of objects derived from this class may not be destructed correctly (compiling source file ..\..\LowLevel\API\src\px_globals.cpp)
+  PxcContact.cpp
+  PxcContactCache.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevel\software\src\PxsContext.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\LowLevel\software\src\PxsContext.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevel\software\src\PxsCCD.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\LowLevel\software\src\PxsCCD.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevel\software\src\PxsSimpleIslandManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevel\software\src\PxsContext.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\LowLevel\software\src\PxsContext.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevel\software\src\PxsSimpleIslandManager.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\LowLevel\software\src\PxsSimpleIslandManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevel\software\src\PxsNphaseImplementationContext.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\LowLevel\software\src\PxsNphaseImplementationContext.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevel\software\src\PxsSimpleIslandManager.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\LowLevel\software\src\PxsSimpleIslandManager.cpp)
+  PxcContactMethodImpl.cpp
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXGpu\include\PxSceneGpu.h(100,1): warning C5204: 'physx::PxSceneGpu': class has virtual functions, but its trivial destructor is not virtual; instances of objects derived from this class may not be destructed correctly (compiling source file ..\..\LowLevel\software\src\PxsContext.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXGpu\include\PxPhysXGpu.h(221,1): warning C5204: 'physx::PxPhysXGpu': class has virtual functions, but its trivial destructor is not virtual; instances of objects derived from this class may not be destructed correctly (compiling source file ..\..\LowLevel\software\src\PxsContext.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXGpu\include\PxSceneGpu.h(100,1): warning C5204: 'physx::PxSceneGpu': class has virtual functions, but its trivial destructor is not virtual; instances of objects derived from this class may not be destructed correctly (compiling source file ..\..\LowLevel\software\src\PxsNphaseImplementationContext.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXGpu\include\PxPhysXGpu.h(221,1): warning C5204: 'physx::PxPhysXGpu': class has virtual functions, but its trivial destructor is not virtual; instances of objects derived from this class may not be destructed correctly (compiling source file ..\..\LowLevel\software\src\PxsNphaseImplementationContext.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevel\common\src\collision\PxcContact.cpp)
+  PxcMaterialHeightField.cpp
+  PxcMaterialMesh.cpp
+  PxcMaterialMethodImpl.cpp
+  PxcMaterialShape.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevel\common\src\pipeline\PxcContactCache.cpp)
+  PxcNpBatch.cpp
+  PxcNpCacheStreamPair.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevel\common\src\pipeline\PxcContactCache.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\LowLevel\common\src\pipeline\PxcContactCache.cpp)
+  PxcNpContactPrepShared.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevel\common\src\pipeline\PxcContactMethodImpl.cpp)
+  PxcNpMemBlockPool.cpp
+  PxcNpThreadContext.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevel\common\src\pipeline\PxcNpBatch.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevel\common\src\pipeline\PxcNpBatch.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\LowLevel\common\src\pipeline\PxcNpBatch.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevel\common\src\pipeline\PxcNpContactPrepShared.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevel\common\src\pipeline\PxcMaterialHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevel\common\src\pipeline\PxcMaterialShape.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevel\common\src\pipeline\PxcMaterialMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevel\common\src\pipeline\PxcMaterialHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\LowLevel\common\src\pipeline\PxcMaterialHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevel\common\src\pipeline\PxcNpContactPrepShared.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\LowLevel\common\src\pipeline\PxcNpContactPrepShared.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevel\common\src\pipeline\PxcMaterialShape.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\LowLevel\common\src\pipeline\PxcMaterialShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevel\common\src\pipeline\PxcMaterialHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\LowLevel\common\src\pipeline\PxcMaterialHeightField.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevel\common\src\pipeline\PxcMaterialMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\LowLevel\common\src\pipeline\PxcMaterialMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevel\common\src\pipeline\PxcMaterialMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\LowLevel\common\src\pipeline\PxcMaterialMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevel\common\src\pipeline\PxcMaterialShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\LowLevel\common\src\pipeline\PxcMaterialShape.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevel\common\src\pipeline\PxcNpBatch.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\LowLevel\common\src\pipeline\PxcNpBatch.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevel\common\src\pipeline\PxcNpThreadContext.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevel\common\src\pipeline\PxcNpThreadContext.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\LowLevel\common\src\pipeline\PxcNpThreadContext.cpp)
+  LowLevel.vcxproj -> C:\CatalystEngine\libs\PhysX\PhysX_3.4\Lib\vc15win64\LowLevelDEBUG.lib

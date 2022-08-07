@@ -1,0 +1,13 @@
+﻿  Vcpkg is unable to link because we cannot decide between Release and Debug libraries. Please define the property VcpkgConfiguration to be 'Release' or 'Debug' (currently 'profile').
+  TaskManager.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount'
+C:\CatalystEngine\libs\PhysX\PxShared\src\task\src\TaskManager.cpp(114,2): warning C5220: 'physx::PxTaskTableRow::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial
+C:\CatalystEngine\libs\PhysX\PxShared\src\task\src\TaskManager.cpp(110): message : see declaration of 'physx::PxTaskTableRow::mRefCount'
+C:\CatalystEngine\libs\PhysX\PxShared\src\task\src\TaskManager.cpp(189,2): warning C5220: 'physx::PxTaskMgr::mPendingTasks': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial
+C:\CatalystEngine\libs\PhysX\PxShared\src\task\src\TaskManager.cpp(175): message : see declaration of 'physx::PxTaskMgr::mPendingTasks'
+LINK : warning LNK4044: unrecognized option '/INCREMENTAL:NO'; ignored
+  PxTask.vcxproj -> C:\CatalystEngine\libs\PhysX\PxShared\lib\vc15win64\PxTaskPROFILE_x64.lib

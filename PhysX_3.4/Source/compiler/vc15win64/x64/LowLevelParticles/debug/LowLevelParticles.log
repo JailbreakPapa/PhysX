@@ -1,0 +1,91 @@
+﻿  Vcpkg is unable to link because we cannot decide between Release and Debug libraries. Please define the property VcpkgConfiguration to be 'Release' or 'Debug' (currently 'debug').
+  PtRigidBodyAccessGpu.cpp
+  PtBatcher.cpp
+  PtBodyTransformVault.cpp
+  PtCollision.cpp
+  PtCollisionBox.cpp
+  PtCollisionCapsule.cpp
+  PtCollisionConvex.cpp
+  PtCollisionMesh.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelParticles\src\PtBatcher.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\LowLevelParticles\src\PtBatcher.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelParticles\src\PtCollision.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelParticles\src\PtCollisionBox.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelParticles\src\PtBatcher.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\LowLevelParticles\src\PtBatcher.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXGpu\include\PxSceneGpu.h(100,1): warning C5204: 'physx::PxSceneGpu': class has virtual functions, but its trivial destructor is not virtual; instances of objects derived from this class may not be destructed correctly (compiling source file ..\..\LowLevelParticles\src\PtBatcher.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelParticles\src\gpu\PtRigidBodyAccessGpu.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXGpu\include\PxPhysXGpu.h(221,1): warning C5204: 'physx::PxPhysXGpu': class has virtual functions, but its trivial destructor is not virtual; instances of objects derived from this class may not be destructed correctly (compiling source file ..\..\LowLevelParticles\src\PtBatcher.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXGpu\include\PxRigidBodyAccessGpu.h(64,1): warning C5204: 'physx::PxRigidBodyAccessGpu': class has virtual functions, but its trivial destructor is not virtual; instances of objects derived from this class may not be destructed correctly (compiling source file ..\..\LowLevelParticles\src\gpu\PtRigidBodyAccessGpu.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelParticles\src\PtCollisionCapsule.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelParticles\src\PtBatcher.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelParticles\src\PtCollisionMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelParticles\src\PtCollisionConvex.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelParticles\src\PtCollision.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\LowLevelParticles\src\PtCollision.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelParticles\src\PtCollision.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\LowLevelParticles\src\PtCollision.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(96,2): warning C5220: 'physx::Cm::RefCountable::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelParticles\src\PtCollisionMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmRefCountable.h(95): message : see declaration of 'physx::Cm::RefCountable::mRefCount' (compiling source file ..\..\LowLevelParticles\src\PtCollisionMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelParticles\src\PtBodyTransformVault.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelParticles\src\PtHeightFieldAabbTest.h(80,61): warning C5219: implicit conversion from 'physx::PxU32' to 'float', possible loss of data (compiling source file ..\..\LowLevelParticles\src\PtCollisionMesh.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelParticles\src\PtHeightFieldAabbTest.h(82,64): warning C5219: implicit conversion from 'physx::PxU32' to 'float', possible loss of data (compiling source file ..\..\LowLevelParticles\src\PtCollisionMesh.cpp)
+  PtCollisionPlane.cpp
+  PtCollisionSphere.cpp
+  PtContextCpu.cpp
+  PtDynamics.cpp
+  PtParticleData.cpp
+  PtParticleShapeCpu.cpp
+  PtParticleSystemSimCpu.cpp
+  PtSpatialHash.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelParticles\src\PtDynamics.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelParticles\src\PtContextCpu.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelParticles\src\PtDynamics.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\LowLevelParticles\src\PtDynamics.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelParticles\src\PtContextCpu.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\LowLevelParticles\src\PtContextCpu.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelParticles\src\PtCollisionPlane.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelParticles\src\PtDynamics.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\LowLevelParticles\src\PtDynamics.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXGpu\include\PxSceneGpu.h(100,1): warning C5204: 'physx::PxSceneGpu': class has virtual functions, but its trivial destructor is not virtual; instances of objects derived from this class may not be destructed correctly (compiling source file ..\..\LowLevelParticles\src\PtContextCpu.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXGpu\include\PxPhysXGpu.h(221,1): warning C5204: 'physx::PxPhysXGpu': class has virtual functions, but its trivial destructor is not virtual; instances of objects derived from this class may not be destructed correctly (compiling source file ..\..\LowLevelParticles\src\PtContextCpu.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelParticles\src\PtCollisionSphere.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelParticles\src\PtParticleShapeCpu.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelParticles\src\PtParticleShapeCpu.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\LowLevelParticles\src\PtParticleShapeCpu.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\PhysXGpu\include\PxRigidBodyAccessGpu.h(64,1): warning C5204: 'physx::PxRigidBodyAccessGpu': class has virtual functions, but its trivial destructor is not virtual; instances of objects derived from this class may not be destructed correctly (compiling source file ..\..\LowLevelParticles\src\PtContextCpu.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelParticles\src\PtContextCpu.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\LowLevelParticles\src\PtContextCpu.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelParticles\src\PtParticleShapeCpu.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\LowLevelParticles\src\PtParticleShapeCpu.cpp)
+  PtSpatialLocalHash.cpp
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelParticles\src\PtParticleData.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelParticles\src\PtParticleSystemSimCpu.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelParticles\src\PtParticleSystemSimCpu.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\LowLevelParticles\src\PtParticleSystemSimCpu.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelParticles\src\PtParticleSystemSimCpu.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\LowLevelParticles\src\PtParticleSystemSimCpu.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelParticles\src\PtSpatialLocalHash.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelParticles\src\PtParticleSystemSimCpu.cpp(765,60): warning C5219: implicit conversion from 'int' to 'physx::PxReal', possible loss of data
+C:\CatalystEngine\libs\PhysX\PxShared\src\foundation\include\PsMathUtils.h(311,29): warning C5219: implicit conversion from 'int' to 'physx::PxF32', possible loss of data (compiling source file ..\..\LowLevelParticles\src\PtSpatialHash.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(329,1): warning C5220: 'physx::PxLightCpuTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelParticles\src\PtSpatialHash.cpp)
+C:\CatalystEngine\libs\PhysX\PxShared\include\task\PxTask.h(326): message : see declaration of 'physx::PxLightCpuTask::mRefCount' (compiling source file ..\..\LowLevelParticles\src\PtSpatialHash.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(238,2): warning C5220: 'physx::Cm::FanoutTask::mRefCount': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial (compiling source file ..\..\LowLevelParticles\src\PtSpatialHash.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\Common\src\CmTask.h(232): message : see declaration of 'physx::Cm::FanoutTask::mRefCount' (compiling source file ..\..\LowLevelParticles\src\PtSpatialHash.cpp)
+C:\CatalystEngine\libs\PhysX\PhysX_3.4\Source\LowLevelParticles\src\PtSpatialHash.cpp(92,45): warning C5219: implicit conversion from 'physx::PxU32' to 'physx::PxF32', possible loss of data
+  LowLevelParticles.vcxproj -> C:\CatalystEngine\libs\PhysX\PhysX_3.4\Lib\vc15win64\LowLevelParticlesDEBUG.lib
